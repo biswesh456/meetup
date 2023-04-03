@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+32,0 days 00:00:28,B: i am in the dining room,B,All
+33,0 days 00:00:36,A: ok what does it look like?,A,All
+34,0 days 00:00:37,B: it has a round brown table,B,All
+35,0 days 00:00:47,B: and picture of sun on the wall,B,All
+56,0 days 00:01:55,A: has a chandelier with 4 lights on it?,A,All
+57,0 days 00:02:06,B: yes,B,All
+58,0 days 00:02:10,A: ok im here,A,All
+59,0 days 00:02:13,B: so we are finished,B,All
+60,0 days 00:02:20,A: yes good luck,A,All
+62,0 days 00:02:21,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+64,0 days 00:02:23,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+65,0 days 00:02:23,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+66,0 days 00:02:23,GM: ,GM,All
+67,0 days 00:02:23,GM: Here's your token: 426RP7M4A,GM,All
+68,0 days 00:02:43,B: ,B,All
+70,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+71,0 days 00:03:46,A: ,A,All
+73,0 days 02:52:28,GM: ,GM,All

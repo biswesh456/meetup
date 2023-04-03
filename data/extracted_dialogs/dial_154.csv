@@ -1,0 +1,35 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:09,A: hi there,A,All
+25,0 days 00:00:17,B: Hello,B,All
+30,0 days 00:00:36,A: well I am in an indoor doorway technicalyl but not sure if it's the right one,A,All
+35,0 days 00:00:46,A: more like screens .. white with black markings,A,All
+36,0 days 00:00:50,A: pale surround,A,All
+37,0 days 00:00:50,B: Im in front of a closest,B,All
+38,0 days 00:01:00,B: Yeah i think thats where i am,B,All
+39,0 days 00:01:07,A: does that count do you think? ,A,All
+40,0 days 00:01:08,B: Folding door really,B,All
+41,0 days 00:01:14,B: I dont think so,B,All
+42,0 days 00:01:20,A: okay let's keep looking,A,All
+49,0 days 00:01:28,B: Lets move together,B,All
+54,0 days 00:01:32,B: North? ,B,All
+55,0 days 00:01:37,A: I went north then west,A,All
+56,0 days 00:01:41,A: I am at another doorway :D ,A,All
+61,0 days 00:02:21,A: i think as long as w e're both in the same place they will accept it ,A,All
+62,0 days 00:02:28,B: Im at a doorway with sliding doors,B,All
+63,0 days 00:02:42,B: Bannister? ,B,All
+64,0 days 00:02:42,A: hmm no don't think that is where I am .. I will find you ,A,All
+77,0 days 00:02:57,B: Its wood with panels,B,All
+78,0 days 00:03:00,A: ah,A,All
+79,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+80,0 days 00:03:03,A: got it ,A,All
+82,0 days 00:03:06,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+84,0 days 00:03:09,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM,All
+85,0 days 00:03:10,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+86,0 days 00:03:10,GM: ,GM,All
+87,0 days 00:03:10,GM: Here's your token: 251TDXH29,GM,All
+88,0 days 00:03:29,B: ,B,All
+90,0 days 00:03:31,A: ,A,All
+92,0 days 01:08:00,GM: ,GM,All

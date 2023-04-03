@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:07,A: Hello,A,All
+25,0 days 00:00:30,"B: Hi :) I am in a garage...with cars in it, so probably not a basement right? lol tho my uncle has a drive in basement...",B,All
+26,0 days 00:00:31,A: Found a basement. It's unfinished.,A,All
+27,0 days 00:00:35,B: ok i'll look,B,All
+28,0 days 00:00:36,"A: Yes, I think this is it",A,All
+33,0 days 00:00:41,"A: Yes, looks like a garage",A,All
+40,0 days 00:01:04,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+41,0 days 00:01:07,B: I found a room that looks more basementy...when i went north...,B,All
+46,0 days 00:01:22,B: what room did you finish in?,B,All
+47,0 days 00:01:22,A: I stopped at that garage/basement,A,All
+53,0 days 00:01:31,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type b/basement",GM,All
+54,0 days 00:01:31,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+55,0 days 00:01:31,GM: ,GM,All
+56,0 days 00:01:32,GM: Here's your token: 1059BASOQY,GM,All
+57,0 days 00:01:42,A: ,A,All
+59,0 days 00:01:44,B: ,B,All
+61,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+62,0 days 00:46:33,GM: ,GM,All

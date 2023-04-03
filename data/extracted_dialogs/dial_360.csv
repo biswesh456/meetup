@@ -1,0 +1,21 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:24,A: hi. I am outside,A,All
+27,0 days 00:00:31,B: Me too,B,All
+32,0 days 00:00:39,A: I am in the living room now. Green leather couch/chairs,A,All
+37,0 days 00:00:44,A: brown panel walls. Can you find it,A,All
+62,0 days 00:01:27,B: working on it...,B,All
+109,0 days 00:02:08,B: found it,B,All
+110,0 days 00:02:10,B: green couch?,B,All
+111,0 days 00:02:13,A: yep,A,All
+113,0 days 00:02:15,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+115,0 days 00:02:24,GM: Well done! Both of you are                            indeed in the same room of type: l/living_room!,GM,All
+116,0 days 00:02:24,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+117,0 days 00:02:25,GM: ,GM,All
+118,0 days 00:02:25,GM: Here's your token: 1039L6KG1S,GM,All
+119,0 days 00:02:35,A: ,A,All
+121,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+122,0 days 00:03:18,B: ,B,All
+124,0 days 00:05:43,GM: ,GM,All

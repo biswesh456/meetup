@@ -1,0 +1,18 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+40,0 days 00:00:39,A: found one with a moon on the wall behind the crib,A,All
+69,0 days 00:01:00,A: also one with the crib on the right and lots of toys on the floor on the left,A,All
+90,0 days 00:01:25,B: i'm in the one with the moon,B,All
+99,0 days 00:01:30,A: ok,A,All
+100,0 days 00:01:31,A: .s,A,All
+105,0 days 00:01:35,A: im there,A,All
+107,0 days 00:01:37,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+109,0 days 00:01:41,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM,All
+110,0 days 00:01:41,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+111,0 days 00:01:41,GM: ,GM,All
+112,0 days 00:01:42,GM: Here's your token: 870JNONPU,GM,All
+113,0 days 00:01:48,A: ,A,All
+115,0 days 00:01:50,B: ,B,All
+117,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM,All

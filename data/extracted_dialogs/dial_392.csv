@@ -1,0 +1,23 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:19,B: Hi,B,All
+33,0 days 00:00:29,A: hello,A,All
+34,0 days 00:00:38,"B: Found a kids room, two beds, Connor on the wall",B,All
+35,0 days 00:00:42,A: i found a room with puzzle pieces for bedding,A,All
+36,0 days 00:00:54,A: want me to find your room,A,All
+37,0 days 00:01:01,B: yours sounds more kidlike...,B,All
+46,0 days 00:01:09,A: ok,A,All
+63,0 days 00:01:25,A: blue walls and a train on the floor,A,All
+76,0 days 00:01:39,B: found it,B,All
+78,0 days 00:01:41,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+79,0 days 00:01:46,A: sweet,A,All
+81,0 days 00:01:50,GM: Well done! Both of you are                            indeed in the same room of type: c/childs_room!,GM,All
+82,0 days 00:01:50,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+83,0 days 00:01:51,GM: ,GM,All
+84,0 days 00:01:51,GM: Here's your token: 1066WU856W,GM,All
+85,0 days 00:02:03,A: ,A,All
+87,0 days 00:02:08,B: ,B,All
+89,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+90,0 days 00:40:58,GM: ,GM,All

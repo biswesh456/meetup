@@ -1,0 +1,40 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:08,B: Hello,B,All
+25,0 days 00:00:13,A: hello,A,All
+30,0 days 00:00:28,A: utility room is laundry room,A,All
+33,0 days 00:00:34,B: Ok I amthere,B,All
+52,0 days 00:00:53,B: I went South from the bedroom with the blue lamp and 2 beds,B,All
+53,0 days 00:01:01,A: in a laundry room,A,All
+54,0 days 00:01:09,A: appliance on the right,A,All
+55,0 days 00:01:19,A: wooden bookshelve on left,A,All
+56,0 days 00:01:40,A: are you in a laundry room?,A,All
+57,0 days 00:01:48,B: Is there a door on the left,B,All
+58,0 days 00:01:54,A: no door,A,All
+59,0 days 00:01:59,B: The countertop in this room is black,B,All
+60,0 days 00:01:59,B: Okay,B,All
+61,0 days 00:02:10,B: do you want me to look for you or you come here ,B,All
+62,0 days 00:02:17,A: not same room,A,All
+63,0 days 00:02:25,A: describe your room ill look,A,All
+68,0 days 00:02:33,B: It has a white door on the left end,B,All
+73,0 days 00:02:50,B: It has a cabinet above a sink with a black countertop,B,All
+76,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+77,0 days 00:03:08,B: There is a dryer ,B,All
+82,0 days 00:03:15,B: *washer,B,All
+83,0 days 00:03:27,B: And a white storage/fridge at right,B,All
+84,0 days 00:03:28,A: blue bucket on shelf at back?,A,All
+85,0 days 00:03:35,B: Yes,B,All
+86,0 days 00:03:35,A: pink walls,A,All
+87,0 days 00:03:42,B: Something pink on counter,B,All
+89,0 days 00:03:42,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+90,0 days 00:03:43,B: No,B,All
+91,0 days 00:03:51,B: Or light pink yeah,B,All
+93,0 days 00:03:53,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM,All
+94,0 days 00:03:53,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+95,0 days 00:03:53,GM: ,GM,All
+96,0 days 00:03:54,GM: Here's your token: 613QCA6ML,GM,All
+97,0 days 00:04:12,B: ,B,All
+99,0 days 00:04:20,A: ,A,All
+101,0 days 00:50:52,GM: ,GM,All

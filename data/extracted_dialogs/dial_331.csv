@@ -1,0 +1,21 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+28,0 days 00:00:14,B: utility room = laundry room FYI,B,All
+45,0 days 00:00:25,A: ok,A,All
+46,0 days 00:00:39,B: when you find one describe it and i'll find you,B,All
+69,0 days 00:01:11,B: s,B,All
+78,0 days 00:01:47,B: found any laundry rooms?,B,All
+79,0 days 00:01:50,B: i've found 4,B,All
+80,0 days 00:01:56,"A: ok i seem to have found one, window on the wall with 6 panes and a sink underneath.  a washer and dryer stacked on top of each other with a white clothes basket on the floor in front of them",A,All
+89,0 days 00:02:07,B: im there,B,All
+91,0 days 00:02:08,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+93,0 days 00:02:15,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM,All
+94,0 days 00:02:15,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+95,0 days 00:02:15,GM: ,GM,All
+96,0 days 00:02:16,GM: Here's your token: 550BDYXR3,GM,All
+97,0 days 00:02:21,B: ,B,All
+99,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+100,0 days 00:05:41,A: ,A,All
+102,0 days 01:38:24,GM: ,GM,All

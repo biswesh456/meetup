@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:00,GM: ,GM,All
+52,0 days 00:00:57,A: I've found one. Let me know when you do. ,A,All
+53,0 days 00:01:04,B: I am on a balcony facing an ocean,B,All
+54,0 days 00:01:14,A: This was thin wood railing. Two wooden folding chairs?,A,All
+55,0 days 00:01:19,A: You can see windows off to the left. ,A,All
+56,0 days 00:01:26,"B: yes, coffee mug on hte floor?",B,All
+57,0 days 00:01:35,A: Yes. I think we're both in the same place. ,A,All
+58,0 days 00:01:42,B: think this is the right place?,B,All
+60,0 days 00:01:46,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+61,0 days 00:01:48,A: Yup. ,A,All
+62,0 days 00:01:52,B: lets do it,B,All
+64,0 days 00:01:55,GM: Well done! Both of you are                            indeed in the same room of type: b/balcony/interior!,GM,All
+65,0 days 00:01:56,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+66,0 days 00:01:56,GM: ,GM,All
+67,0 days 00:01:56,GM: Here's your token: 3599335LR,GM,All
+68,0 days 00:02:20,A: ,A,All
+70,0 days 00:02:29,B: ,B,All
+72,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+73,0 days 03:52:31,GM: ,GM,All

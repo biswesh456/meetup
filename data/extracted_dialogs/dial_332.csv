@@ -1,0 +1,42 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:17,A: hi there.  I am outside at minute so i will start moving.  Where are you,A,All
+29,0 days 00:00:29,B: I usually wander around until I find the right place,B,All
+30,0 days 00:00:37,B: and then describe it to make sure it's the same picture,B,All
+39,0 days 00:00:53,"B: ok, I think I'm there",B,All
+40,0 days 00:01:02,B: It has high ceilings and an orange tint to it,B,All
+41,0 days 00:01:44,B: Do you know how to move?,B,All
+42,0 days 00:01:50,A: ok I have found a wine cellar but it is not the same.  Stay here and i will move,A,All
+43,0 days 00:01:57,A: stay there i mean and i will move,A,All
+48,0 days 00:02:00,B: ok,B,All
+57,0 days 00:02:18,A: describe it more to me,A,All
+64,0 days 00:02:30,B: there's a long hall with wine on either side in racks shaped like A-frames,B,All
+69,0 days 00:02:47,A: found another one but not the same I will keep going,A,All
+70,0 days 00:02:48,B: The ceiling is arched and high with an orange tint due to the lighting,B,All
+75,0 days 00:02:59,A: e,A,All
+76,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+109,0 days 00:03:39,B: should I try to move and find one of yours?,B,All
+110,0 days 00:03:47,A: no its ok bare with me,A,All
+245,0 days 00:05:58,A: e,A,All
+258,0 days 00:06:23,A: ok seriously i am going round in circles,A,All
+263,0 days 00:06:35,"B: ok, maybe find a different one and describe it",B,All
+274,0 days 00:06:47,A: ok thanks,A,All
+275,0 days 00:06:49,B: Maybe we have different layouts and possibilities that don't overlap,B,All
+346,0 days 00:07:44,"B: ok, I found another",B,All
+347,0 days 00:07:54,A: ok me too.  What is yours like,A,All
+348,0 days 00:07:56,B: it is just a bunch of bottles ,B,All
+349,0 days 00:08:01,B: wooden racks,B,All
+350,0 days 00:08:07,B: criss-cross pattern in the middle,B,All
+351,0 days 00:08:07,A: are the racks triangle shape,A,All
+352,0 days 00:08:13,A: not triangle diamond,A,All
+353,0 days 00:08:15,B: diamonds more like,B,All
+355,0 days 00:08:20,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+356,0 days 00:08:24,A: yes,A,All
+358,0 days 00:08:28,GM: Well done! Both of you are                            indeed in the same room of type: w/wine_cellar/bottle_storage!,GM,All
+359,0 days 00:08:29,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+360,0 days 00:08:29,GM: ,GM,All
+361,0 days 00:08:29,GM: Here's your token: 912KL9O2U,GM,All
+362,0 days 00:08:48,B: ,B,All
+364,0 days 00:08:54,A: ,A,All

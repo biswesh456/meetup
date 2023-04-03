@@ -1,0 +1,23 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+24,0 days 00:00:11,B: w,B,All
+37,0 days 00:00:23,B: Hi,B,All
+50,0 days 00:00:34,A: i am in a playtroom,A,All
+55,0 days 00:00:43,A: red carpet with a half cirlce desk,A,All
+56,0 days 00:00:43,B: are there kids?,B,All
+57,0 days 00:00:46,A: no,A,All
+116,0 days 00:02:16,B: got it,B,All
+118,0 days 00:02:23,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+119,0 days 00:02:24,B: that is not a playroom,B,All
+121,0 days 00:02:27,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM,All
+122,0 days 00:02:27,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+123,0 days 00:02:28,GM: ,GM,All
+124,0 days 00:02:28,GM: Here's your token: 795YZK1FR,GM,All
+125,0 days 00:02:45,A: seems to think so,A,All
+126,0 days 00:02:53,B: yeah :D,B,All
+127,0 days 00:02:53,A: ,A,All
+129,0 days 00:02:56,B: ,B,All
+131,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+132,0 days 01:12:57,GM: ,GM,All

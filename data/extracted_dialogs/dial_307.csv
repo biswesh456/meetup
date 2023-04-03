@@ -1,0 +1,33 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+26,0 days 00:00:23,A: I'm in a dining room,A,All
+31,0 days 00:00:27,B: i am too,B,All
+32,0 days 00:00:30,A: wood walls,A,All
+33,0 days 00:00:33,B: brown table and chirs,B,All
+34,0 days 00:00:40,B: blue chair in the back,B,All
+35,0 days 00:00:47,A: different room,A,All
+40,0 days 00:00:57,A: you want to find me or me find you?,A,All
+55,0 days 00:01:11,B: i am here,B,All
+56,0 days 00:01:16,B: green wooden walls,B,All
+57,0 days 00:01:20,A: nope,A,All
+58,0 days 00:01:34,A: woodstove in back of room,A,All
+59,0 days 00:01:45,A: centerpiece on the table,A,All
+65,0 days 00:01:52,A: 6 brown chairs,A,All
+78,0 days 00:02:05,A: the walls look like log cabin style,A,All
+104,0 days 00:02:33,A: sliding doors behind the table,A,All
+113,0 days 00:03:00,B: what color are the walls?,B,All
+114,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+115,0 days 00:03:05,A: brown,A,All
+116,0 days 00:03:15,A: log cabin type walls,A,All
+149,0 days 00:03:52,B: i am here,B,All
+150,0 days 00:03:55,B: log cabin,B,All
+152,0 days 00:03:56,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+154,0 days 00:03:57,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+155,0 days 00:03:57,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+156,0 days 00:03:58,GM: ,GM,All
+157,0 days 00:03:58,GM: Here's your token: 727MPAPNB,GM,All
+158,0 days 00:04:19,A: ,A,All
+160,0 days 00:08:28,B: ,B,All
+162,0 days 02:36:44,GM: ,GM,All

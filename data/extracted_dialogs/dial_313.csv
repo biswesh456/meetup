@@ -1,0 +1,30 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+56,0 days 00:01:00,A: I think I'm there,A,All
+57,0 days 00:01:09,"B: in living room, white carpet, two white chairs on left",B,All
+58,0 days 00:01:10,A: Big mirror on back wall,A,All
+59,0 days 00:01:25,A: I'll try and find you I'm not there,A,All
+66,0 days 00:01:35,B: ok,B,All
+71,0 days 00:01:42,B: white couch on right,B,All
+72,0 days 00:01:58,B: long narrow coffee table,B,All
+73,0 days 00:02:12,A: now I am in another one that doesn't match yours,A,All
+74,0 days 00:02:19,B: peacock artwork stained glass in back,B,All
+75,0 days 00:02:23,A: it has a china cabinet filled with a bunch of figurens and stuff,A,All
+76,0 days 00:02:30,A: no I'll keep looking for you,A,All
+99,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+100,0 days 00:03:08,A: can't find,A,All
+109,0 days 00:03:18,B: i can try and find you,B,All
+114,0 days 00:03:29,B: can you go back to china cabinet?,B,All
+119,0 days 00:03:36,A: yes I am there now,A,All
+128,0 days 00:03:52,A: you there?,A,All
+130,0 days 00:03:57,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+131,0 days 00:03:58,B: i will find you,B,All
+137,0 days 00:04:26,GM: Well done! Both of you are                            indeed in the same room of type: l/living_room!,GM,All
+138,0 days 00:04:26,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+139,0 days 00:04:27,GM: ,GM,All
+140,0 days 00:04:27,GM: Here's your token: 547RY88SG,GM,All
+141,0 days 00:04:47,B: ,B,All
+143,0 days 00:04:49,A: ,A,All
+145,0 days 01:42:36,GM: ,GM,All

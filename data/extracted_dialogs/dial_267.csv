@@ -1,0 +1,32 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+34,0 days 00:00:30,B: okay I'm in a bathrom,B,All
+47,0 days 00:00:40,B: white tub,B,All
+48,0 days 00:00:49,A: double sink,A,All
+49,0 days 00:00:59,B: single sink,B,All
+50,0 days 00:01:13,A: do you want to find me or me you,A,All
+51,0 days 00:01:17,"B: find me, I'll describe",B,All
+52,0 days 00:01:20,A: k,A,All
+53,0 days 00:01:22,B: tub on left,B,All
+58,0 days 00:01:29,B: sink in the middle,B,All
+60,0 days 00:01:35,B: toilet on right,B,All
+70,0 days 00:01:51,B: you can see the bottom of a window on the upper left,B,All
+75,0 days 00:02:02,B: tan tile,B,All
+80,0 days 00:02:16,B: chrome fixtures,B,All
+93,0 days 00:02:34,B: rustic square tiles on the wall,B,All
+94,0 days 00:02:48,A: no decorations at all,A,All
+95,0 days 00:02:49,B: pedastal sink,B,All
+96,0 days 00:02:54,B: no decorations,B,All
+97,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+98,0 days 00:03:07,A: i think im there,A,All
+100,0 days 00:03:10,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+101,0 days 00:03:11,B: okay,B,All
+103,0 days 00:03:17,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM,All
+104,0 days 00:03:18,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+105,0 days 00:03:18,GM: ,GM,All
+106,0 days 00:03:19,GM: Here's your token: 627QGEBJB,GM,All
+107,0 days 00:03:37,B: ,B,All
+109,0 days 00:03:41,A: ,A,All
+111,0 days 00:37:03,GM: ,GM,All

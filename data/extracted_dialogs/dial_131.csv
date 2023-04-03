@@ -1,0 +1,25 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:00,GM: ,GM,All
+24,0 days 00:00:18,A: I'm heading north,A,All
+29,0 days 00:00:23,B: im in a romm with a bunch of cabinets going east,B,All
+34,0 days 00:00:29,A: Found a dining room,A,All
+35,0 days 00:00:35,A: metal overhead light,A,All
+41,0 days 00:00:40,A: some fancy white plastic chairs,A,All
+45,0 days 00:00:43,A: try to head north ,A,All
+46,0 days 00:00:54,A: Brown table ,A,All
+47,0 days 00:00:59,B: scultpure on the wall?,B,All
+48,0 days 00:01:01,A: black chair at the head of the table,A,All
+49,0 days 00:01:04,A: Yeah ,A,All
+50,0 days 00:01:09,B: dish with red stuff in the middle?,B,All
+51,0 days 00:01:12,A: Yeah ,A,All
+53,0 days 00:01:14,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+55,0 days 00:01:19,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+56,0 days 00:01:19,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+57,0 days 00:01:19,GM: ,GM,All
+58,0 days 00:01:20,GM: Here's your token: 382XMG2WZ,GM,All
+59,0 days 00:01:25,A: ,A,All
+61,0 days 00:01:46,B: ,B,All
+63,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+64,0 days 03:32:58,GM: ,GM,All

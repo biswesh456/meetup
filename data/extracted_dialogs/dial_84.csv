@@ -1,0 +1,26 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+28,0 days 00:00:17,B: in bedroom,B,All
+29,0 days 00:00:21,B: window at back,B,All
+34,0 days 00:00:25,B: closet on left,B,All
+35,0 days 00:00:28,"A: Okay, I'm still looking. ",A,All
+40,0 days 00:00:41,B: red and grey stripped bedspread,B,All
+41,0 days 00:00:45,B: white walls,B,All
+50,0 days 00:01:00,B: black/grey carpet floor,B,All
+59,0 days 00:01:09,B: white headboard,B,All
+68,0 days 00:01:20,B: fire alarm on ceiling,B,All
+69,0 days 00:01:26,B: very plain,B,All
+70,0 days 00:01:32,B: no dresser,B,All
+71,0 days 00:01:38,B: white curtains,B,All
+72,0 days 00:01:44,A: Found it!,A,All
+74,0 days 00:01:46,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+76,0 days 00:01:49,GM: Well done! Both of you are                            indeed in the same room of type: b/bedroom!,GM,All
+77,0 days 00:01:50,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:01:50,GM: ,GM,All
+79,0 days 00:01:51,GM: Here's your token: 593TNOUJB,GM,All
+80,0 days 00:02:15,B: ,B,All
+82,0 days 00:02:25,A: ,A,All
+84,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+85,0 days 01:07:30,GM: ,GM,All

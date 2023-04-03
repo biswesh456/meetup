@@ -1,0 +1,25 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+70,0 days 00:00:48,B: where are you right now?,B,All
+71,0 days 00:00:52,A: im in a waiting room,A,All
+72,0 days 00:00:57,A: green bench,A,All
+77,0 days 00:01:11,A: two posters on the wall,A,All
+78,0 days 00:01:26,A: want me to wait?,A,All
+79,0 days 00:01:33,B: yeah let me try to find that,B,All
+84,0 days 00:01:37,A: k,A,All
+99,0 days 00:01:50,"A: tiles on the floor, two windows",A,All
+108,0 days 00:02:38,B: i am in a room like that now but its only one poster and the other is a thing with pamphlets or something,B,All
+109,0 days 00:02:44,A: yes,A,All
+110,0 days 00:02:46,B: i see the tiles and the long bench though,B,All
+111,0 days 00:02:47,A: thats it,A,All
+113,0 days 00:02:53,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+115,0 days 00:02:57,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM,All
+116,0 days 00:02:57,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+117,0 days 00:02:57,GM: ,GM,All
+118,0 days 00:02:57,GM: Here's your token: 1012YMYQN7,GM,All
+119,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+120,0 days 00:03:18,A: ,A,All
+122,0 days 00:03:25,B: ,B,All
+124,0 days 00:40:07,GM: ,GM,All

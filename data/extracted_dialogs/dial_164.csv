@@ -1,0 +1,23 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+28,0 days 00:00:39,A: hello. are you in the dining room?,A,All
+29,0 days 00:00:48,A: it has a wooden table with a fish on it,A,All
+30,0 days 00:00:50,"B: ok I am in a dining room of sorts, wooden table two windows with horizontal blinds.  cReam walls",B,All
+31,0 days 00:01:07,B: im guessing you are in a different room?,B,All
+34,0 days 00:01:11,A: i just see one window in my dining room,A,All
+35,0 days 00:01:12,A: yes,A,All
+39,0 days 00:01:20,B: ok stay there and i will try to move,B,All
+59,0 days 00:01:28,A: ok,A,All
+119,0 days 00:02:43,B: still looking bare with me,B,All
+130,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+198,0 days 00:04:30,B: got it!!,B,All
+200,0 days 00:04:33,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+201,0 days 00:04:41,A: nice job!,A,All
+203,0 days 00:04:43,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+204,0 days 00:04:43,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+205,0 days 00:04:43,GM: ,GM,All
+206,0 days 00:04:44,GM: Here's your token: 900JFCMDX,GM,All
+207,0 days 00:05:06,B: ,B,All
+209,0 days 00:05:22,A: ,A,All

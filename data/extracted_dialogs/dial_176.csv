@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:04,GM: ,GM,All
+44,0 days 00:00:47,A: I'm in a dining room,A,All
+45,0 days 00:00:57,"A: Wooden doors on the left, rug underneath the table",A,All
+46,0 days 00:01:05,A: Where are you?,A,All
+47,0 days 00:01:07,B: i will find u,B,All
+48,0 days 00:01:14,B: in a different dining room,B,All
+53,0 days 00:01:20,A: Okay. There's fancy candles on the table too,A,All
+54,0 days 00:01:35,B: w/,B,All
+55,0 days 00:01:36,A: Do you want me to look for you?,A,All
+60,0 days 00:01:59,B: i will look for you,B,All
+82,0 days 00:02:27,"A: Okay. if it helps, just north of here is a lounge room with a fire place.",A,All
+107,0 days 00:02:59,A: And just south is a super pink bedroom,A,All
+108,0 days 00:03:06,GM: Attention: you are in the game for 3 minutes!,GM,All
+133,0 days 00:03:53,B: think im there,B,All
+138,0 days 00:04:20,B: painting on wall on left inbetween the two sets of wodden doors?,B,All
+139,0 days 00:04:31,"A: Two sets of candles on the table? Yep, the painting",A,All
+140,0 days 00:04:36,B: yes,B,All
+141,0 days 00:04:40,A: Awesome,A,All
+143,0 days 00:04:43,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+145,0 days 00:04:47,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+146,0 days 00:04:47,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+147,0 days 00:04:48,GM: ,GM,All
+148,0 days 00:04:48,GM: Here's your token: 555N1GVL4,GM,All
+149,0 days 00:05:20,A: ,A,All
+151,0 days 00:05:23,B: ,B,All
+153,0 days 01:37:28,GM: ,GM,All

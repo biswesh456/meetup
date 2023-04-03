@@ -1,0 +1,21 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+78,0 days 00:00:48,A: found one with a white folding panel door,A,All
+79,0 days 00:00:58,A: through the door you can see a table with orange flowers on it,A,All
+80,0 days 00:01:03,B: okay great I will look,B,All
+86,0 days 00:01:10,A: the bottom half of the walls are blue,A,All
+152,0 days 00:01:41,A: there's also one that looks like its in a garage,A,All
+157,0 days 00:01:47,A: with a wood ceiling,A,All
+158,0 days 00:01:50,B: I'm in the one that looks like a garage now,B,All
+159,0 days 00:01:52,A: and a large white door,A,All
+160,0 days 00:01:53,A: ok,A,All
+162,0 days 00:01:54,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+164,0 days 00:01:57,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM,All
+165,0 days 00:01:57,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+166,0 days 00:01:58,GM: ,GM,All
+167,0 days 00:01:59,GM: Here's your token: 866SZGPDD,GM,All
+168,0 days 00:02:11,A: ,A,All
+170,0 days 00:02:14,B: ,B,All
+172,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All

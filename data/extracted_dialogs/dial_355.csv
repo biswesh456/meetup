@@ -1,0 +1,16 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+52,0 days 00:01:19,"B: small room with  small table, a laptop on it and a printer to the left",B,All
+53,0 days 00:01:42,A: i am in small room with table laptop but printer to the right,A,All
+62,0 days 00:02:00,"B: ok, ill look for you",B,All
+95,0 days 00:02:31,A: bookshelf to right of printer also,A,All
+100,0 days 00:02:40,B: I see it,B,All
+102,0 days 00:02:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+104,0 days 00:03:00,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM,All
+105,0 days 00:03:00,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+106,0 days 00:03:01,GM: ,GM,All
+107,0 days 00:03:01,GM: Here's your token: 95740MVOP,GM,All
+108,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+109,0 days 00:03:15,B: ,B,All

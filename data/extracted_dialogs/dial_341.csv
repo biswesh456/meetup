@@ -1,0 +1,27 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+27,0 days 00:00:28,B: I've found a reading room. Let me know when you do. ,B,All
+32,0 days 00:00:55,A: me too.  Large room with 3 wooden tables.  Walls covered in book shelves?,A,All
+33,0 days 00:01:07,B: This one has two people in it. Guy on the left is wear orange with blue stripes. Person on the right is in all blue. ,B,All
+34,0 days 00:01:24,A: ok not the same.  Stay there and i will move.,A,All
+35,0 days 00:01:29,B: Okay. ,B,All
+61,0 days 00:01:56,B: There is a square table in the middle front of the image that these two people are sitting around. ,B,All
+70,0 days 00:02:11,A: still looking bare with me,A,All
+71,0 days 00:02:14,B: There's a backpack on the table and they each have a book in front of them. ,B,All
+86,0 days 00:02:23,"B: Okay, that's fine. ",B,All
+97,0 days 00:02:48,A: another reading room but no people.  will move again,A,All
+104,0 days 00:02:57,B: Okay. ,B,All
+109,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+164,0 days 00:04:25,A: ok got it.  orange bag in front of by.  Girl holding orange pencil?,A,All
+165,0 days 00:04:31,A: front of boy,A,All
+166,0 days 00:04:36,B: Yes! Great. ,B,All
+168,0 days 00:04:39,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+170,0 days 00:04:44,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM,All
+171,0 days 00:04:45,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+172,0 days 00:04:45,GM: ,GM,All
+173,0 days 00:04:45,GM: Here's your token: 2742JQTZ6,GM,All
+174,0 days 00:05:14,B: ,B,All
+176,0 days 00:07:32,A: ,A,All
+178,0 days 00:37:28,GM: ,GM,All

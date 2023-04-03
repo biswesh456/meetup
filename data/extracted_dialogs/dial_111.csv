@@ -1,0 +1,32 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+24,0 days 00:00:21,"A: Hello,",A,All
+25,0 days 00:00:21,B: i found a home/office computer station,B,All
+26,0 days 00:00:24,A: I am in a bedroom,A,All
+27,0 days 00:00:26,A: Ok ,A,All
+28,0 days 00:00:30,A: What does it look like,A,All
+35,0 days 00:00:36,B: has wood floors and a tiny computer screen on the desk,B,All
+40,0 days 00:00:42,A: Ok,A,All
+45,0 days 00:00:48,B: a printer to the left on a side table,B,All
+54,0 days 00:01:04,"A: What color is the chair , is there a chair?",A,All
+59,0 days 00:01:10,B: i found another one with a red chair,B,All
+60,0 days 00:01:20,A: I was in the one with a red chair,A,All
+65,0 days 00:01:25,B: go to the red chair,B,All
+66,0 days 00:01:27,A: Ok,A,All
+67,0 days 00:01:29,A: I am there,A,All
+68,0 days 00:01:34,B: two computer screens?,B,All
+69,0 days 00:01:37,A: Yes,A,All
+70,0 days 00:01:42,B: file drawers on the left?,B,All
+71,0 days 00:01:45,A: Yes,A,All
+72,0 days 00:01:46,B: ok,B,All
+74,0 days 00:01:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+76,0 days 00:01:50,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM,All
+77,0 days 00:01:50,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:01:53,GM: ,GM,All
+79,0 days 00:01:53,GM: Here's your token: 409ELPWLY,GM,All
+80,0 days 00:01:59,B: ,B,All
+82,0 days 00:02:11,A: ,A,All
+84,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+85,0 days 03:08:18,GM: ,GM,All

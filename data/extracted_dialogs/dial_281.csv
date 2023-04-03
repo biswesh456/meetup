@@ -1,0 +1,21 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+26,0 days 00:00:15,A: i am in a dining room,A,All
+31,0 days 00:00:19,A: gold with red walls,A,All
+32,0 days 00:00:23,A: very extravagant,A,All
+33,0 days 00:00:25,"B: ok, ill try and find you",B,All
+58,0 days 00:01:00,A: okay,A,All
+95,0 days 00:01:52,"B: ok I think I found it, with a chandelier?",B,All
+96,0 days 00:02:06,A: yes,A,All
+97,0 days 00:02:15,B: :),B,All
+99,0 days 00:02:17,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+101,0 days 00:02:21,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+102,0 days 00:02:21,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+103,0 days 00:02:21,GM: ,GM,All
+104,0 days 00:02:22,GM: Here's your token: 744NSEAWA,GM,All
+105,0 days 00:02:39,B: ,B,All
+107,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+108,0 days 00:07:51,A: ,A,All
+110,0 days 02:06:29,GM: ,GM,All

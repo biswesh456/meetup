@@ -1,0 +1,35 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:11,A: hi there,A,All
+25,0 days 00:00:14,B: hello,B,All
+26,0 days 00:00:19,A: I am at a staircase,A,All
+27,0 days 00:00:22,B: looks like we are meeting in the southern staircase,B,All
+28,0 days 00:00:25,"A: white stairs, ornate black railings",A,All
+29,0 days 00:00:27,"B: okay, not there yet will let you know",B,All
+32,0 days 00:00:33,A: large green plant :) ,A,All
+59,0 days 00:01:10,A: where are you now>,A,All
+64,0 days 00:01:23,"B: i'm at a staircase, but there's no plant",B,All
+65,0 days 00:01:32,A: hmm ... shall I come and look for you?,A,All
+66,0 days 00:01:35,B: this is my third staircase... will keep looking!,B,All
+67,0 days 00:01:35,A: stay there :),A,All
+68,0 days 00:01:38,B: okay,B,All
+75,0 days 00:01:48,A: ah I am at another,A,All
+76,0 days 00:01:49,"B: this one is mostly white, the floorboards are tan",B,All
+77,0 days 00:01:54,B: the railing is a dark brown/black,B,All
+78,0 days 00:01:55,"A: very light coloured, little white table?",A,All
+79,0 days 00:02:01,A: door to the left?,A,All
+80,0 days 00:02:04,"B: there's a white top table, black lets",B,All
+81,0 days 00:02:08,"B: yes, door to the left",B,All
+82,0 days 00:02:08,A: gotcha:),A,All
+84,0 days 00:02:10,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+85,0 days 00:02:12,B: open door above the staircase,B,All
+87,0 days 00:02:14,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM,All
+88,0 days 00:02:14,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+89,0 days 00:02:15,GM: ,GM,All
+90,0 days 00:02:15,GM: Here's your token: 143VNJX9V,GM,All
+91,0 days 00:02:32,A: ,A,All
+93,0 days 00:02:53,B: ,B,All
+95,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+96,0 days 02:23:42,GM: ,GM,All

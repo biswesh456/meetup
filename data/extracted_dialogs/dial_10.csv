@@ -1,0 +1,52 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:09,A: hi there,A,All
+25,0 days 00:00:12,B: hello. ,B,All
+64,0 days 00:00:52,A: well i am at a doorway but I dunno if it's the right one,A,All
+70,0 days 00:01:01,"A: big square white door on the left, open doorway on the right",A,All
+74,0 days 00:01:07,"A: tan ceiling, green brush to the left",A,All
+75,0 days 00:01:09,B: not in a doorway yet will keep you update,B,All
+127,0 days 00:02:11,B: hmm can't find it!,B,All
+137,0 days 00:02:21,A: heh keep trying :) ,A,All
+147,0 days 00:02:48,B: i'm kind of in a doorway...,B,All
+148,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+149,0 days 00:03:02,"B: it's got the doorway all the way on the left, half wall.",B,All
+150,0 days 00:03:03,A: are there two doors in front? ,A,All
+151,0 days 00:03:06,B: facing kitchen,B,All
+152,0 days 00:03:09,B: nope,B,All
+153,0 days 00:03:16,A: I don't see a kitchen ... ,A,All
+154,0 days 00:03:19,B: can you try to find me?,B,All
+155,0 days 00:03:22,A: I'll come and look for you,A,All
+160,0 days 00:03:25,B: thanks,B,All
+165,0 days 00:03:32,A: oh damn am out in the snow lol ,A,All
+170,0 days 00:03:35,B: the kitchen has hanging lights,B,All
+171,0 days 00:03:37,B: lol i was there,B,All
+184,0 days 00:03:54,"B: the room to the left of the doorway has like reddish or a black wall, hard to tell if it's just the lighting",B,All
+185,0 days 00:03:59,A: now I am in a dessert :(,A,All
+186,0 days 00:04:03,A: and a desert,A,All
+187,0 days 00:04:05,B: hahaha was there as well,B,All
+202,0 days 00:04:27,A: hmm .. red door? ,A,All
+203,0 days 00:04:40,"B: nope, no visible door. just an opening to the other room",B,All
+204,0 days 00:04:44,A: s,A,All
+209,0 days 00:04:49,B: should i try to find you again?,B,All
+214,0 days 00:04:58,A: lol I am outside again .. ,A,All
+225,0 days 00:05:12,A: I think this might be it,A,All
+226,0 days 00:05:16,"A: red door, red chair",A,All
+227,0 days 00:05:18,B: maybe we can find the room that is a doorway to the outside,B,All
+228,0 days 00:05:22,"B: okay, you stay there",B,All
+229,0 days 00:05:26,B: i will try to find you,B,All
+234,0 days 00:05:29,A: *sits self in chair*,A,All
+267,0 days 00:06:05,B: i think i've found it,B,All
+268,0 days 00:06:09,A: cool :),A,All
+269,0 days 00:06:11,B: birds nest to the left of the door?,B,All
+270,0 days 00:06:15,A: yes :),A,All
+272,0 days 00:06:16,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+274,0 days 00:06:18,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM,All
+275,0 days 00:06:19,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+276,0 days 00:06:19,GM: ,GM,All
+277,0 days 00:06:19,GM: Here's your token: 148G72MXN,GM,All
+278,0 days 00:06:40,B: ,B,All
+280,0 days 00:06:51,A: ,A,All
+282,0 days 02:20:40,GM: ,GM,All

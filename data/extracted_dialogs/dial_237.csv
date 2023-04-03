@@ -1,0 +1,63 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:05,A: Hello,A,All
+21,0 days 00:00:08,B: hi,B,All
+26,0 days 00:00:15,A: I am in a bathroom,A,All
+27,0 days 00:00:16,"B: okay, i found one",B,All
+30,0 days 00:00:25,A: Ok Ill look,A,All
+31,0 days 00:00:25,B: big wall of wood bottle holders,B,All
+32,0 days 00:00:28,A: ok,A,All
+37,0 days 00:00:35,B: bottle of wine with red cap on bottom left,B,All
+59,0 days 00:01:04,B: i also found one with a long hallway with curved ceiling,B,All
+60,0 days 00:01:05,A: Are most the bottles black?,A,All
+61,0 days 00:01:08,B: so if you can find either of those,B,All
+62,0 days 00:01:19,B: yes black bottles along hallway,B,All
+63,0 days 00:01:25,B: yellow/orange lighting,B,All
+64,0 days 00:01:31,B: metal tracks on ceiling,B,All
+65,0 days 00:01:34,A: No yellow orange lightning,A,All
+66,0 days 00:01:35,B: you there?,B,All
+67,0 days 00:01:38,A: In the one I'm in ,A,All
+68,0 days 00:01:40,B: lighting*,B,All
+69,0 days 00:01:53,B: is the ceiling curved?,B,All
+70,0 days 00:01:55,A: The rack is wood and it's full of bottle,A,All
+71,0 days 00:01:58,A: no Curved celing,A,All
+72,0 days 00:01:58,B: ok,B,All
+73,0 days 00:02:08,B: look for the two i found,B,All
+74,0 days 00:02:11,A: Ok,A,All
+109,0 days 00:02:38,B: i found one with black bottles,B,All
+110,0 days 00:02:39,A: There is a light at the toop,A,All
+111,0 days 00:02:42,B: maybe the one you were in,B,All
+112,0 days 00:02:43,A: I left there,A,All
+113,0 days 00:02:48,B: diamond shelves on top,B,All
+114,0 days 00:02:53,A: I am in the one with the curved floor,A,All
+115,0 days 00:02:53,"B: ok, just find any of them",B,All
+116,0 days 00:03:00,B: curved ceiling?,B,All
+117,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+122,0 days 00:03:13,A: Curved wall and floor,A,All
+123,0 days 00:03:16,A: A yellow light at the to[,A,All
+124,0 days 00:03:18,A: *top,A,All
+125,0 days 00:03:22,A: Go back to that room,A,All
+126,0 days 00:03:31,B: are there racks and racks of bottles along tyhe hallway?,B,All
+132,0 days 00:03:46,A: Its along the wall,A,All
+138,0 days 00:03:53,A: There are 3 white pillars,A,All
+139,0 days 00:03:54,B: hm,B,All
+140,0 days 00:03:56,B: nope,B,All
+141,0 days 00:04:00,B: let me look around more,B,All
+154,0 days 00:04:13,A: Go back to the room I described eariler,A,All
+159,0 days 00:04:16,A: and I will go back there too,A,All
+168,0 days 00:04:28,B: not sure whioch one that was,B,All
+169,0 days 00:04:35,"B: okay, found curved wall one",B,All
+170,0 days 00:04:38,B: with brown racks,B,All
+171,0 days 00:04:39,A: Ok,A,All
+173,0 days 00:04:41,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+174,0 days 00:04:42,B: yellow light at top,B,All
+176,0 days 00:04:45,A: Yes,A,All
+177,0 days 00:04:45,GM: Well done! Both of you are                            indeed in the same room of type: w/wine_cellar/bottle_storage!,GM,All
+178,0 days 00:04:45,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+179,0 days 00:04:46,GM: ,GM,All
+180,0 days 00:04:46,GM: Here's your token: 423LHRL53,GM,All
+181,0 days 00:04:52,B: ,B,All
+183,0 days 00:05:00,A: ,A,All
+185,0 days 02:56:16,GM: ,GM,All

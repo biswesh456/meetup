@@ -1,0 +1,33 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:10,B: e,B,All
+25,0 days 00:00:33,B: could be a waiting room,B,All
+26,0 days 00:00:38,B: 2 chairs,B,All
+27,0 days 00:00:39,B: brown,B,All
+28,0 days 00:00:50,A: hey,A,All
+29,0 days 00:00:50,B: round table in the center with a plant on it,B,All
+30,0 days 00:00:55,A: '/n,A,All
+35,0 days 00:01:02,B: 3 lights on the wall,B,All
+36,0 days 00:01:08,B: the walls are beige,B,All
+37,0 days 00:01:10,A: I have flowers on table,A,All
+38,0 days 00:01:23,A: blue chairs,A,All
+39,0 days 00:01:26,B: you wish to find me or me find you,B,All
+44,0 days 00:01:31,A: I find you,A,All
+53,0 days 00:01:45,B: k I'll keep describing,B,All
+54,0 days 00:01:48,A: is there a human?,A,All
+55,0 days 00:01:52,B: the floor is beige,B,All
+56,0 days 00:01:59,B: no people,B,All
+91,0 days 00:02:46,A: got it,A,All
+93,0 days 00:02:49,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+94,0 days 00:02:53,B: there are side tables one on left of room right of room,B,All
+96,0 days 00:02:56,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM,All
+97,0 days 00:02:56,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+98,0 days 00:02:57,GM: ,GM,All
+99,0 days 00:02:57,GM: Here's your token: 839AK8CSU,GM,All
+100,0 days 00:02:57,A: yes,A,All
+101,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+102,0 days 00:03:14,A: ,A,All
+104,0 days 00:03:26,B: ,B,All
+106,0 days 00:22:26,GM: ,GM,All

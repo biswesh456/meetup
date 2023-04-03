@@ -1,0 +1,20 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+26,0 days 00:00:38,"A: I'm in a kitchen with a center island, what room are you in?",A,All
+47,0 days 00:01:15,B: bedroom,B,All
+48,0 days 00:01:15,A: I'm now in a locker room with yellow jerseys,A,All
+49,0 days 00:01:20,B: computer on table and black chair,B,All
+54,0 days 00:01:30,B: poster with group of people on the wall,B,All
+69,0 days 00:02:43,"A: I think I am almost as far as you can go north and west, though I'm not sure if it is the locker room we are looking for",A,All
+74,0 days 00:02:55,A: e/,A,All
+79,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 00:03:06,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+83,0 days 00:03:12,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type l/locker_room",GM,All
+84,0 days 00:03:12,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+85,0 days 00:03:12,GM: ,GM,All
+86,0 days 00:03:13,GM: Here's your token: 48DSU37C,GM,All
+87,0 days 00:03:37,A: ,A,All
+89,0 days 00:04:09,B: ,B,All
+91,0 days 01:46:00,GM: ,GM,All

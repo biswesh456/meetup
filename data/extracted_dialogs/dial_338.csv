@@ -1,0 +1,21 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:02,GM: ,GM,All
+38,0 days 00:00:34,"B: I'm in an attic I think, going east from outside the house with a lot of windows.",B,All
+39,0 days 00:00:41,B: There's a nice comfortable looking bed and a skylight in it.,B,All
+40,0 days 00:00:46,A: okay describe it and I'll find it,A,All
+53,0 days 00:01:24,"B: Triangular ceiling, white blanket with a purple colored thing on it.",B,All
+54,0 days 00:01:26,A: dark wall behind the bed?,A,All
+55,0 days 00:01:30,B: Yeah,B,All
+56,0 days 00:01:36,A: okay got it,A,All
+57,0 days 00:01:38,"B: Ok, great.",B,All
+59,0 days 00:01:39,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+61,0 days 00:01:41,GM: Well done! Both of you are                            indeed in the same room of type: a/attic!,GM,All
+62,0 days 00:01:41,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+63,0 days 00:01:42,GM: ,GM,All
+64,0 days 00:01:42,GM: Here's your token: 960FWRIA3,GM,All
+65,0 days 00:01:49,"B: Good job, take care.",B,All
+66,0 days 00:01:57,A: ,A,All
+68,0 days 00:02:00,B: ,B,All
+70,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All

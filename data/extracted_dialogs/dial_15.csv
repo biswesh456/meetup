@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+26,0 days 00:00:24,A: i am looking at a row of computers,A,All
+47,0 days 00:00:50,A: went north and am in utility room,A,All
+48,0 days 00:01:03,B: i am in a room with a washer and dryer,B,All
+53,0 days 00:01:20,A: is that the utility room? I think it is,A,All
+54,0 days 00:01:29,A: i am in same room,A,All
+55,0 days 00:01:32,B: another room has an ironing board,B,All
+56,0 days 00:01:39,B: do you see an ironing board?,B,All
+57,0 days 00:01:46,A: no,A,All
+78,0 days 00:02:13,B: is there a sink on the right side?,B,All
+79,0 days 00:02:30,A: on the left of the washer/dryer,A,All
+80,0 days 00:02:41,A: above brown cabinets,A,All
+81,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+82,0 days 00:03:02,"B: cabinets are brown but mine shows dryer, washer, cabinet with sink above it",B,All
+83,0 days 00:03:11,B: is there a plug over the counter over the washer,B,All
+84,0 days 00:03:21,A: yes,A,All
+85,0 days 00:03:38,B: okay I think we're in the same room then,B,All
+86,0 days 00:03:44,A: me too,A,All
+89,0 days 00:03:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+90,0 days 00:03:48,"GM: You have managed to meet in a room of type:                                                        u/utility_room, but unfortunately                                                        not in the same one.",GM,All
+91,0 days 00:03:48,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+92,0 days 00:03:48,GM: ,GM,All
+93,0 days 00:03:48,GM: Here's your token: 704GM207,GM,All
+94,0 days 00:04:23,B: ,B,All
+96,0 days 00:04:24,A: ,A,All
+98,0 days 01:00:41,GM: ,GM,All

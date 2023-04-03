@@ -1,0 +1,27 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:06,B: Hi,B,All
+21,0 days 00:00:09,A: hello,A,All
+26,0 days 00:00:19,B: Moving around,B,All
+27,0 days 00:00:20,A: so i think i am already here,A,All
+32,0 days 00:00:29,A: room with a kid playing with toys,A,All
+37,0 days 00:00:41,A: kid wearing red shirt and pj pants,A,All
+38,0 days 00:00:44,B: Im in a play room but not the same one,B,All
+39,0 days 00:00:52,B: Ill move more,B,All
+41,0 days 00:00:57,A: ok cool,A,All
+49,0 days 00:01:08,B: Got it,B,All
+50,0 days 00:01:12,B: Green carpet? ,B,All
+51,0 days 00:01:12,A: awesome,A,All
+52,0 days 00:01:14,A: yes,A,All
+53,0 days 00:01:20,B: Great,B,All
+55,0 days 00:01:23,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+57,0 days 00:01:25,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM,All
+58,0 days 00:01:25,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+59,0 days 00:01:26,GM: ,GM,All
+60,0 days 00:01:26,GM: Here's your token: 2704MXRR9,GM,All
+61,0 days 00:01:44,A: ,A,All
+63,0 days 00:02:41,B: ,B,All
+65,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+66,0 days 00:50:30,GM: ,GM,All

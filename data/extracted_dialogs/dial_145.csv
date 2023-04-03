@@ -1,0 +1,21 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+24,0 days 00:00:19,A: found a locker room with blue lockerse on left,A,All
+25,0 days 00:00:23,B: Hey. I'm in a bedroom with an open door,B,All
+30,0 days 00:00:28,A: go west,A,All
+37,0 days 00:00:37,B: Okay,B,All
+38,0 days 00:00:38,A: see blue lockers?,A,All
+43,0 days 00:00:54,B: Yep! That was quick. One blue towel hanging off them?,B,All
+45,0 days 00:00:58,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+46,0 days 00:00:59,A: yep,A,All
+47,0 days 00:01:05,B: Awesome,B,All
+49,0 days 00:01:08,GM: Well done! Both of you are                            indeed in the same room of type: l/locker_room!,GM,All
+50,0 days 00:01:08,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+51,0 days 00:01:08,GM: ,GM,All
+52,0 days 00:01:09,GM: Here's your token: 530GT1QGH,GM,All
+53,0 days 00:01:15,A: ,A,All
+55,0 days 00:01:30,B: ,B,All
+57,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+58,0 days 01:53:18,GM: ,GM,All

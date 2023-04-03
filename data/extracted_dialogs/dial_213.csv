@@ -1,0 +1,32 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:02,GM: ,GM,All
+44,0 days 00:00:45,A: in laundry room which is utility room,A,All
+49,0 days 00:00:54,A: washer dryer on right,A,All
+50,0 days 00:01:00,B: okay let me find it,B,All
+55,0 days 00:01:02,A: bookshelf on left,A,All
+61,0 days 00:01:08,A: white walls,A,All
+65,0 days 00:01:18,A: metal garbage can on the right,A,All
+66,0 days 00:01:25,B: stainless steel washer and dryer?,B,All
+67,0 days 00:01:32,B: different room,B,All
+68,0 days 00:01:32,A: white appliances,A,All
+79,0 days 00:01:51,A: water heater back right corner,A,All
+85,0 days 00:01:58,A: grey floor,A,All
+97,0 days 00:02:11,A: shelves at back empty,A,All
+106,0 days 00:02:29,A: only a few books on wooden bookshelf,A,All
+116,0 days 00:02:40,A: you still there,A,All
+117,0 days 00:02:48,B: still trying,B,All
+118,0 days 00:02:50,A: k,A,All
+123,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+128,0 days 00:03:08,B: okay got it,B,All
+130,0 days 00:03:14,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+131,0 days 00:03:15,B: brown counter?,B,All
+133,0 days 00:03:22,"GM: You have managed to meet in a room of type:                                                        u/utility_room, but unfortunately                                                        not in the same one.",GM,All
+134,0 days 00:03:22,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+135,0 days 00:03:23,GM: ,GM,All
+136,0 days 00:03:23,GM: Here's your token: 637JUL31U,GM,All
+137,0 days 00:03:34,A: no counter bookshelf,A,All
+138,0 days 00:03:43,B: ,B,All
+140,0 days 00:03:53,A: ,A,All
+142,0 days 00:33:01,GM: ,GM,All

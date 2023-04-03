@@ -1,0 +1,37 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:02,GM: ,GM,All
+20,0 days 00:00:17,A: Hi,A,All
+21,0 days 00:00:22,B: Hi!,B,All
+24,0 days 00:00:34,A: I am in a bedroom,A,All
+25,0 days 00:00:46,B: I'm in what looks like a sewing room,B,All
+26,0 days 00:00:56,B: I'm going to go north,B,All
+37,0 days 00:01:14,A: I found a library,A,All
+38,0 days 00:01:19,A: that must be the reading room,A,All
+39,0 days 00:01:38,B: Okay great. I'm in a room with heaps of chairs,B,All
+40,0 days 00:01:44,B: I'll try south,B,All
+53,0 days 00:02:30,A: How goes the search?,A,All
+54,0 days 00:02:44,B: Still looking... I appear to be outside now,B,All
+63,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+64,0 days 00:03:15,"B: Okay I'm back in the sewing room again. Must be west, only direction I haven't tried yet",B,All
+69,0 days 00:03:20,A: yes,A,All
+70,0 days 00:03:38,B: Okay I'm in what looks like a library now... does yours have two red chairs at the front?,B,All
+71,0 days 00:03:51,A: no,A,All
+72,0 days 00:04:03,A: brown chair ,A,All
+79,0 days 00:04:11,B: Hmm okay,B,All
+81,0 days 00:04:15,B: I'll keep going then,B,All
+137,0 days 00:05:21,A: I give up,A,All
+139,0 days 00:05:26,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+140,0 days 00:05:28,B: Another reading room now... this one has several tables lol,B,All
+141,0 days 00:05:34,A: Yes that's it,A,All
+142,0 days 00:05:40,B: Awesome,B,All
+144,0 days 00:05:42,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM,All
+145,0 days 00:05:42,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+146,0 days 00:05:43,GM: ,GM,All
+147,0 days 00:05:43,GM: Here's your token: 470MADQZO,GM,All
+148,0 days 00:05:47,A: Glad you got there :D,A,All
+149,0 days 00:05:59,A: ,A,All
+151,0 days 00:06:10,B: Haha we must have been a t opposite ends,B,All
+152,0 days 00:06:37,B: ,B,All
+154,0 days 02:30:13,GM: ,GM,All

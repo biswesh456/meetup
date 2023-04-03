@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+38,0 days 00:00:31,"A: Hi there, I'm in a dining room with a reddish color tint",A,All
+39,0 days 00:00:59,A: There's a big crystal chandelier and fancy looking curtains,A,All
+40,0 days 00:01:29,B: flowers on the right under the window?,B,All
+41,0 days 00:01:47,A: Yes,A,All
+42,0 days 00:01:50,B: whitish chair with design on back?,B,All
+43,0 days 00:01:53,A: And one chair that looks different,A,All
+44,0 days 00:01:59,A: yeah with yellowish seat,A,All
+45,0 days 00:02:09,B: 4 candles,B,All
+46,0 days 00:02:13,A: yes,A,All
+48,0 days 00:02:15,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+50,0 days 00:02:18,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+51,0 days 00:02:18,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+52,0 days 00:02:19,GM: ,GM,All
+53,0 days 00:02:19,GM: Here's your token: 11402FF3V0,GM,All
+54,0 days 00:02:23,A: ,A,All
+56,0 days 00:02:50,B: ,B,All
+58,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+59,0 days 00:23:00,GM: ,GM,All

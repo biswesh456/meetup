@@ -1,0 +1,16 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+40,0 days 00:00:33,A: ok i am in utility room.  White door to left.  White washing machine and tumble dryer.  Marble type counter above,A,All
+49,0 days 00:00:48,B: I think I found the same one,B,All
+50,0 days 00:00:55,A: great!,A,All
+51,0 days 00:00:55,B: white door on the left?,B,All
+53,0 days 00:00:58,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+55,0 days 00:01:00,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM,All
+56,0 days 00:01:00,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+57,0 days 00:01:01,GM: ,GM,All
+58,0 days 00:01:01,GM: Here's your token: 941COAHUY,GM,All
+59,0 days 00:01:17,A: ,A,All
+61,0 days 00:01:23,B: ,B,All
+63,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All

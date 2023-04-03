@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+28,0 days 00:00:26,A: I'm in one right away. Let me know when you find one. ,A,All
+29,0 days 00:00:32,B: ok I am there I think,B,All
+30,0 days 00:00:38,"A: This one has a yellow, blue and purple play house. ",A,All
+31,0 days 00:00:40,B: actually - it looks like a classroom,B,All
+32,0 days 00:00:44,B: let me keep going,B,All
+37,0 days 00:00:49,A: Okay. ,A,All
+44,0 days 00:01:08,A: This has a road map looking floor mat in the middle of the room. Two small windows on one wall. ,A,All
+49,0 days 00:01:19,A: Long and narrow folding table in the back. ,A,All
+50,0 days 00:01:24,B: I found it,B,All
+52,0 days 00:01:25,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+54,0 days 00:01:30,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM,All
+55,0 days 00:01:30,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+56,0 days 00:01:30,GM: ,GM,All
+57,0 days 00:01:31,GM: Here's your token: 355WSES77,GM,All
+58,0 days 00:01:52,B: ,B,All
+60,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+61,0 days 00:04:41,A: ,A,All
+63,0 days 03:54:48,GM: ,GM,All

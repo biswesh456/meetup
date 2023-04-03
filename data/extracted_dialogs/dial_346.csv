@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:04,B: hello,B,All
+31,0 days 00:00:26,A: hey,A,All
+44,0 days 00:00:36,B: hello,B,All
+45,0 days 00:00:39,A: I believe I am in the utility room ,A,All
+46,0 days 00:00:41,B: there i think,B,All
+47,0 days 00:00:45,B: washer and dryer,B,All
+48,0 days 00:00:49,"A: There are white cabinets, with what ppears to be a washer/dryer",A,All
+49,0 days 00:00:55,"B: white, brown cabinets",B,All
+50,0 days 00:01:05,"A: I dont see brown, just white ",A,All
+51,0 days 00:01:08,A: hang on,A,All
+58,0 days 00:01:13,"B: differwnt ones, ill move",B,All
+63,0 days 00:01:15,B: u stay,B,All
+64,0 days 00:01:19,B: ?,B,All
+69,0 days 00:01:24,A: okay,A,All
+96,0 days 00:02:11,"A: theres a row of cabinets mounted on the wall, above the washer dryer.  and then a cabinet adjacent to them. all white.  ",A,All
+111,0 days 00:02:46,B: got it,B,All
+112,0 days 00:02:50,A: okay,A,All
+114,0 days 00:02:51,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+116,0 days 00:02:52,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM,All
+117,0 days 00:02:52,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+118,0 days 00:02:52,GM: ,GM,All
+119,0 days 00:02:52,GM: Here's your token: 904E0KSTB,GM,All
+120,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+121,0 days 00:03:05,B: ,B,All
+123,0 days 00:03:08,A: ,A,All

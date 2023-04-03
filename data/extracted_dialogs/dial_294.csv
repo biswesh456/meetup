@@ -1,0 +1,21 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:00,GM: ,GM,All
+20,0 days 00:00:12,B: hi,B,All
+31,0 days 00:00:43,A: hey,A,All
+60,0 days 00:01:08,A: im in a bathroom,A,All
+61,0 days 00:01:12,A: white tub with grey tiles,A,All
+66,0 days 00:01:43,B: w/,B,All
+115,0 days 00:02:52,A: to the east of the city,A,All
+116,0 days 00:02:52,B: i am in bathroom grey tiles on wall and tub,B,All
+117,0 days 00:02:55,A: perfect,A,All
+118,0 days 00:02:55,A: done,A,All
+120,0 days 00:02:57,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+122,0 days 00:03:00,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM,All
+123,0 days 00:03:00,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+124,0 days 00:03:00,GM: ,GM,All
+125,0 days 00:03:01,GM: Here's your token: 8955T4SR7,GM,All
+126,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+127,0 days 00:03:05,A: ,A,All
+129,0 days 00:03:32,B: ,B,All

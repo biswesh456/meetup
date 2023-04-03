@@ -1,0 +1,33 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:02,GM: ,GM,All
+20,0 days 00:00:05,A: hello,A,All
+23,0 days 00:00:11,B: hi!,B,All
+38,0 days 00:00:28,B: i think i've found it,B,All
+39,0 days 00:00:34,A: imin one alao,A,All
+40,0 days 00:00:35,B: it has a bunch of toys in it,B,All
+41,0 days 00:00:45,A: i'm in one also,A,All
+42,0 days 00:00:48,B: does it have two windows?,B,All
+43,0 days 00:00:50,A:  toys againat wall,A,All
+44,0 days 00:01:04,B: what about a play slide?,B,All
+45,0 days 00:01:04,A: no,A,All
+46,0 days 00:01:10,B: different ones then,B,All
+47,0 days 00:01:14,B: ill try to find yours,B,All
+50,0 days 00:01:19,A: does it have a yellow and red toy you can go in,A,All
+51,0 days 00:01:22,A: like a tent,A,All
+52,0 days 00:01:28,B: nope,B,All
+57,0 days 00:01:36,"A: ok, i'll stay put",A,All
+94,0 days 00:02:24,A: ?,A,All
+95,0 days 00:02:30,B: still trying to find it,B,All
+98,0 days 00:02:36,A: k,A,All
+123,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+136,0 days 00:03:23,B: found it!,B,All
+138,0 days 00:03:27,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+140,0 days 00:03:38,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM,All
+141,0 days 00:03:38,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+142,0 days 00:03:38,GM: ,GM,All
+143,0 days 00:03:39,GM: Here's your token: 907LA132O,GM,All
+144,0 days 00:03:50,B: nice job partner,B,All
+145,0 days 00:04:02,B: ,B,All
+147,0 days 00:04:27,A: ,A,All

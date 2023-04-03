@@ -1,0 +1,37 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:14,"B: ok, i'm in a bedroom",B,All
+21,0 days 00:00:27,B: it has dark (grey?) comforter,B,All
+22,0 days 00:00:39,B: a bright light is on behind the bed to the left of a window,B,All
+23,0 days 00:00:47,B: its a small room,B,All
+26,0 days 00:01:04,A: s/,A,All
+27,0 days 00:01:05,B: matching grey curtains to the bed,B,All
+28,0 days 00:01:23,"A: well, I appear to be outside",A,All
+29,0 days 00:01:31,B: keep moving around,B,All
+38,0 days 00:02:01,A: something appears to be not working on my end,A,All
+39,0 days 00:02:08,B: ?,B,All
+40,0 days 00:02:25,A: I have a static picture of some people outside,A,All
+41,0 days 00:02:41,B: there are outside pics,B,All
+42,0 days 00:02:47,B: you have to move a direction away from them,B,All
+43,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+46,0 days 00:03:05,B: game master message should say the options which directions you can go,B,All
+61,0 days 00:04:09,B: you able to move now?,B,All
+62,0 days 00:04:11,A: ok now i am in a hotel room,A,All
+63,0 days 00:04:14,B: cool,B,All
+64,0 days 00:04:19,B: dark grey bed stuff?,B,All
+65,0 days 00:04:25,B: like i descrived?,B,All
+66,0 days 00:04:28,A: from what I can see,A,All
+67,0 days 00:04:31,B: cool,B,All
+68,0 days 00:04:35,B: think we're done!,B,All
+69,0 days 00:04:36,A: telephone and remote on nightstand,A,All
+71,0 days 00:04:37,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+73,0 days 00:04:48,B: hm.. no nightstand here,B,All
+74,0 days 00:04:49,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type b/bedroom",GM,All
+75,0 days 00:04:49,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+76,0 days 00:04:49,GM: ,GM,All
+77,0 days 00:04:49,GM: Here's your token: 371394S8V,GM,All
+78,0 days 00:04:58,B: ,B,All
+80,0 days 00:06:40,A: ,A,All
+82,0 days 03:42:35,GM: ,GM,All

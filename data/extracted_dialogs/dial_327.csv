@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:02,GM: ,GM,All
+24,0 days 00:00:21,B: hello,B,All
+25,0 days 00:00:25,A: hi,A,All
+34,0 days 00:00:33,A: found staircase,A,All
+35,0 days 00:00:39,B: I'm there too,B,All
+36,0 days 00:00:42,A: spiral stairs,A,All
+37,0 days 00:00:43,B: good job ;-),B,All
+38,0 days 00:00:46,B: right,B,All
+40,0 days 00:00:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+41,0 days 00:00:49,A: dark brown rails,A,All
+42,0 days 00:00:53,B: yes,B,All
+44,0 days 00:00:55,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM,All
+45,0 days 00:00:55,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+46,0 days 00:00:55,GM: ,GM,All
+47,0 days 00:00:55,GM: Here's your token: 4964A6V6W,GM,All
+48,0 days 00:01:15,A: ,A,All
+50,0 days 00:01:17,B: ,B,All
+52,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+53,0 days 02:15:58,GM: ,GM,All

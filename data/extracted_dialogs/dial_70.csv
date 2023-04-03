@@ -1,0 +1,17 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:01:00,A: I am outside,A,All
+25,0 days 00:01:17,B: d/dining_room,B,All
+26,0 days 00:01:30,A: I am in the dinning room with a glass table with a view of the pool,A,All
+28,0 days 00:01:50,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+29,0 days 00:02:32,A: you need to type /done,A,All
+31,0 days 00:02:47,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type d/dining_room",GM,All
+32,0 days 00:02:47,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+33,0 days 00:02:47,GM: ,GM,All
+34,0 days 00:02:47,GM: Here's your token: 229JY8I4A,GM,All
+35,0 days 00:03:00,B: ,B,All
+37,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+38,0 days 00:03:20,A: ,A,All
+40,0 days 01:32:51,GM: ,GM,All

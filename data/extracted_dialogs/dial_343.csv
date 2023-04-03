@@ -1,0 +1,27 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+24,0 days 00:00:27,A: Go s,A,All
+39,0 days 00:00:59,B: I'm in a room with a window that looks out into some grass and trees,B,All
+40,0 days 00:01:10,B: 6 chairs around an oval table,B,All
+49,0 days 00:01:25,A: Same here... and I a fire place and couch,A,All
+66,0 days 00:01:53,B: ok I am at the fireplace and couch,B,All
+67,0 days 00:02:03,A: Okay ... are we gone,A,All
+68,0 days 00:02:04,A: Done,A,All
+69,0 days 00:02:08,B: does the couch have 2 pillows,B,All
+70,0 days 00:02:10,B: with red lines,B,All
+72,0 days 00:02:13,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+73,0 days 00:02:15,A: Yes,A,All
+74,0 days 00:02:22,B: type /done,B,All
+76,0 days 00:02:28,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM,All
+77,0 days 00:02:28,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:02:28,GM: ,GM,All
+79,0 days 00:02:29,GM: Here's your token: 652UUV3PW,GM,All
+80,0 days 00:02:35,B: EZ Clap,B,All
+81,0 days 00:02:59,B: ,B,All
+83,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+84,0 days 00:03:16,A: Ez,A,All
+85,0 days 00:03:18,A: Later,A,All
+86,0 days 00:03:34,A: ,A,All
+88,0 days 03:45:17,GM: ,GM,All

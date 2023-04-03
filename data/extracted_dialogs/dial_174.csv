@@ -1,0 +1,26 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+29,0 days 00:00:22,B: I am in a basement,B,All
+33,0 days 00:00:29,"A: Ok, I am trying to find it",A,All
+34,0 days 00:00:33,A: is it a finished basement?,A,All
+35,0 days 00:00:40,A: I found one also,A,All
+36,0 days 00:00:41,A: tan couches,A,All
+37,0 days 00:00:46,A: a bar in the back corner,A,All
+38,0 days 00:00:48,"B: water heater on left, washer and dryer, white in color, white sink. stairs on right ",B,All
+39,0 days 00:00:53,A: Ok ,A,All
+48,0 days 00:01:12,A: Which direction were you headed in?,A,All
+53,0 days 00:01:16,B: north,B,All
+58,0 days 00:01:22,A: ok,A,All
+67,0 days 00:01:34,A: I'm there,A,All
+69,0 days 00:01:35,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+71,0 days 00:01:45,GM: Well done! Both of you are                            indeed in the same room of type: b/basement!,GM,All
+72,0 days 00:01:45,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+73,0 days 00:01:45,GM: ,GM,All
+74,0 days 00:01:45,GM: Here's your token: 4862YSDPN,GM,All
+75,0 days 00:01:46,A: you can finish,A,All
+76,0 days 00:01:58,A: ,A,All
+77,0 days 00:01:58,B: ,B,All
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 02:18:41,GM: ,GM,All

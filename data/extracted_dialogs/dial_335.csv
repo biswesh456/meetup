@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:02,GM: ,GM,All
+36,0 days 00:00:33,B: I am in a kitchen,B,All
+37,0 days 00:00:43,B: looks like grapes on wallpaper,B,All
+38,0 days 00:00:47,A: Okay ,A,All
+39,0 days 00:00:53,A: w/,A,All
+56,0 days 00:01:24,B: fridge on very left hand of picture,B,All
+57,0 days 00:01:33,"A: Okay, still looking. ",A,All
+62,0 days 00:01:42,B: burners on counter on lower right of photo,B,All
+63,0 days 00:01:49,B: tea kettle on back burner,B,All
+72,0 days 00:02:32,B: find me?,B,All
+73,0 days 00:02:35,A: Paper towel roll on the wall?,A,All
+74,0 days 00:02:40,B: yes above sink,B,All
+75,0 days 00:02:44,A: Something green next to the sink. ,A,All
+76,0 days 00:02:47,B: yes,B,All
+77,0 days 00:02:49,B: we're there,B,All
+78,0 days 00:02:50,A: Perfect. ,A,All
+81,0 days 00:02:52,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+83,0 days 00:02:54,GM: Well done! Both of you are                            indeed in the same room of type: k/kitchen!,GM,All
+84,0 days 00:02:54,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+85,0 days 00:02:55,GM: ,GM,All
+86,0 days 00:02:55,GM: Here's your token: 583EFD9RS,GM,All
+87,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM,All
+88,0 days 00:03:02,B: Have a great night! ;-),B,All
+89,0 days 00:03:15,A: ,A,All
+91,0 days 00:03:24,B: ,B,All
+93,0 days 01:17:32,GM: ,GM,All

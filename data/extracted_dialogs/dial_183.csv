@@ -1,0 +1,23 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:13,B: s,B,All
+21,0 days 00:00:15,A: ok i am in living room so i will move,A,All
+34,0 days 00:00:32,B: I'm in a waiting room. I'll stay here until you find one. ,B,All
+35,0 days 00:00:47,A: describe it. i am too it has grey settees and cream walls,A,All
+36,0 days 00:01:09,"B: This has green chairs, large plant on the right side. Left side has large painting of maybe a castle. ",B,All
+37,0 days 00:01:17,A: ok let me move rooms,A,All
+42,0 days 00:01:27,"B: Okay, I'll stay here. ",B,All
+47,0 days 00:01:42,A: got it.  Brown walls pictures on left hand side?,A,All
+48,0 days 00:01:48,B: Yes. ,B,All
+49,0 days 00:01:53,A: perfect we are done.,A,All
+51,0 days 00:01:55,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+53,0 days 00:01:55,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM,All
+54,0 days 00:01:55,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+55,0 days 00:01:56,GM: ,GM,All
+56,0 days 00:01:56,GM: Here's your token: 26822Y53S,GM,All
+57,0 days 00:02:18,A: ,A,All
+59,0 days 00:02:48,B: ,B,All
+61,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+62,0 days 00:51:33,GM: ,GM,All

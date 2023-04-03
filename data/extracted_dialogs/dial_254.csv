@@ -1,0 +1,24 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+34,0 days 00:00:32,A: blue chairs,A,All
+35,0 days 00:00:40,A: table on left,A,All
+44,0 days 00:00:49,A: tv in back corner,A,All
+49,0 days 00:00:55,A: where are you,A,All
+50,0 days 00:01:04,B: still looking,B,All
+63,0 days 00:01:29,A: ill will keep describing room ,A,All
+64,0 days 00:01:31,B: in waiting room,B,All
+65,0 days 00:01:40,B: rows of blue chairs,B,All
+66,0 days 00:01:51,A: water fountain,A,All
+67,0 days 00:01:54,B: water fountain in back,B,All
+68,0 days 00:01:56,B: yep,B,All
+70,0 days 00:01:58,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+72,0 days 00:02:01,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM,All
+73,0 days 00:02:01,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+74,0 days 00:02:01,GM: ,GM,All
+75,0 days 00:02:02,GM: Here's your token: 446Y9E1I7,GM,All
+76,0 days 00:02:25,A: ,A,All
+78,0 days 00:02:35,B: ,B,All
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 02:39:48,GM: ,GM,All

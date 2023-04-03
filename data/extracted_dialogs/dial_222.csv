@@ -1,0 +1,23 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:12,B: Hi,B,All
+31,0 days 00:00:22,A: Hey,A,All
+32,0 days 00:00:27,A: I've found one all ready. ,A,All
+33,0 days 00:00:29,B: I found a cellar,B,All
+34,0 days 00:00:29,A: Let me know when you find one. ,A,All
+35,0 days 00:00:39,B: What does it look like,B,All
+36,0 days 00:01:01,A: This one had the whole racks taking up most of the photo. Light brown. From the perspective of near the floor. ,A,All
+37,0 days 00:01:20,B: Bottle with red cap on bottom left ?,B,All
+38,0 days 00:01:29,A: Yes. ,A,All
+39,0 days 00:01:34,B: ok,B,All
+41,0 days 00:01:37,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+43,0 days 00:01:39,GM: Well done! Both of you are                            indeed in the same room of type: w/wine_cellar/bottle_storage!,GM,All
+44,0 days 00:01:39,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+45,0 days 00:01:39,GM: ,GM,All
+46,0 days 00:01:40,GM: Here's your token: 5132FSF80,GM,All
+47,0 days 00:01:52,B: ,B,All
+49,0 days 00:02:12,A: ,A,All
+51,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+52,0 days 02:01:05,GM: ,GM,All

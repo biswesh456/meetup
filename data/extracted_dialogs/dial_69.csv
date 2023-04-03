@@ -1,0 +1,31 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:10,A: hi,A,All
+21,0 days 00:00:14,B: hello,B,All
+78,0 days 00:00:55,A: i think i'm here. white couch. print of an ocean liner on the wall.,A,All
+79,0 days 00:01:10,"B: I see a room with a strangely shaped yellowish/whitish chair, I'll look for your room though",B,All
+80,0 days 00:01:18,A: i can see a desk through the doorway ,A,All
+85,0 days 00:01:23,B: I don't see that,B,All
+86,0 days 00:01:31,B: I see a room with a large couch and 3 paintings on the wall as well,B,All
+91,0 days 00:01:47,A: you want to keep looking or should i come to you?,A,All
+92,0 days 00:01:55,B: We can do both at the same time,B,All
+101,0 days 00:02:07,B: I see another room with orange paint and a tv in the bottom left corner,B,All
+110,0 days 00:02:15,A: yeah i'm there now,A,All
+111,0 days 00:02:20,B: orange paint?,B,All
+112,0 days 00:02:27,A: yep yellow flowers next to tv,A,All
+113,0 days 00:02:31,B: yeah,B,All
+116,0 days 00:02:33,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+117,0 days 00:02:34,GM: Well done! Both of you are                            indeed in the same room of type: l/living_room!,GM,All
+118,0 days 00:02:35,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+119,0 days 00:02:35,GM: ,GM,All
+120,0 days 00:02:35,GM: Here's your token: 265UW09VF,GM,All
+121,0 days 00:02:36,A: done,A,All
+122,0 days 00:02:39,B: sweet,B,All
+123,0 days 00:02:47,A: :),A,All
+124,0 days 00:02:58,B: well done m8,B,All
+125,0 days 00:02:59,B: ,B,All
+127,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+128,0 days 00:03:04,A: ,A,All
+130,0 days 00:52:46,GM: ,GM,All

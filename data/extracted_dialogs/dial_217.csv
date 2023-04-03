@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+48,0 days 00:00:29,A: Hey! I'm in a living room with a big brown circle on the wall,A,All
+51,0 days 00:00:36,B: i found two staircases,B,All
+52,0 days 00:00:43,B: one with brown wood doors to right,B,All
+57,0 days 00:00:48,A: I'm going to go north,A,All
+58,0 days 00:00:53,A: Okay i'll look out for it,A,All
+59,0 days 00:00:55,B: one with bloack table to left of stairs,B,All
+69,0 days 00:01:05,A: No plants?,A,All
+77,0 days 00:01:13,B: one with green stone steps,B,All
+78,0 days 00:01:14,B: nope,B,All
+91,0 days 00:01:42,"A: Okay, still looking...",A,All
+96,0 days 00:02:10,"A: Found a bunch of staircases, none of them match so far",A,All
+101,0 days 00:02:18,B: stay still in one and describe,B,All
+111,0 days 00:02:50,A: Okay I'm in one with wooden curving stairs... a white topped table to the left... and an open door on the second storey,A,All
+119,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+120,0 days 00:03:04,B: im there,B,All
+121,0 days 00:03:04,A: I don't think it's the same as yours,A,All
+123,0 days 00:03:05,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+124,0 days 00:03:14,A: Awesome,A,All
+126,0 days 00:03:16,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM,All
+127,0 days 00:03:17,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+128,0 days 00:03:17,GM: ,GM,All
+129,0 days 00:03:17,GM: Here's your token: 533A8WGWZ,GM,All
+130,0 days 00:03:23,B: ,B,All
+132,0 days 00:03:37,A: ,A,All
+134,0 days 01:51:35,GM: ,GM,All

@@ -1,0 +1,41 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:06,B: hello,B,All
+21,0 days 00:00:09,B: ok,B,All
+22,0 days 00:00:13,A: hi,A,All
+23,0 days 00:00:15,B: utility room we meet at,B,All
+38,0 days 00:00:25,B: in the bathroom now,B,All
+77,0 days 00:00:50,A: i'm here. west of bathroom,A,All
+78,0 days 00:00:52,B: bathroom ,B,All
+79,0 days 00:01:02,B: west gets me bathroom,B,All
+80,0 days 00:01:13,B: I am in the bathroom. Where are we meeting again?,B,All
+81,0 days 00:01:25,A: utility room,A,All
+82,0 days 00:01:28,B: utility,B,All
+83,0 days 00:01:29,B: yea,B,All
+84,0 days 00:01:33,B: ok,B,All
+89,0 days 00:01:35,A: small green wastebasket,A,All
+100,0 days 00:01:50,A: washing machine and dryer. small sink and door to outside,A,All
+101,0 days 00:01:53,B: nothing is working,B,All
+102,0 days 00:01:55,B: no,B,All
+113,0 days 00:02:08,A: maybe we were in different bathrooms,A,All
+114,0 days 00:02:11,B: In the bathroom again,B,All
+123,0 days 00:02:23,B: white toilet and gold rug,B,All
+128,0 days 00:02:29,B: maybe,B,All
+129,0 days 00:02:29,A: yeah,A,All
+130,0 days 00:02:32,A: yellow tub,A,All
+135,0 days 00:02:38,B: yea,B,All
+140,0 days 00:02:43,B: white shower curtain,B,All
+145,0 days 00:03:00,"A: yeah. if i go west from there, i'm in utility room",A,All
+146,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+147,0 days 00:03:02,B: don't know about this one. No utility room,B,All
+148,0 days 00:03:16,B: Put in /done,B,All
+150,0 days 00:03:19,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+152,0 days 00:03:24,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type u/utility_room",GM,All
+153,0 days 00:03:24,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+154,0 days 00:03:24,GM: ,GM,All
+155,0 days 00:03:25,GM: Here's your token: 2074FX1GE,GM,All
+156,0 days 00:03:41,A: ,A,All
+158,0 days 00:03:42,B: ,B,All
+160,0 days 01:43:43,GM: ,GM,All

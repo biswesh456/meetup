@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+40,0 days 00:00:36,A: I'm in a utility room,A,All
+45,0 days 00:00:44,B: can you describe it,B,All
+46,0 days 00:00:44,A: sink ,A,All
+47,0 days 00:00:48,B: ive already passed 2 laundry rooms,B,All
+52,0 days 00:00:56,A: dryer over a washer,A,All
+57,0 days 00:01:03,A: laundry basket on the floor,A,All
+70,0 days 00:01:20,A: window over sink,A,All
+83,0 days 00:01:42,A: sink has exposed pipes,A,All
+120,0 days 00:02:32,B: i am there ,B,All
+122,0 days 00:02:40,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+124,0 days 00:02:44,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM,All
+125,0 days 00:02:45,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+126,0 days 00:02:45,GM: ,GM,All
+127,0 days 00:02:45,GM: Here's your token: 669UHFCGJ,GM,All
+128,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+129,0 days 00:03:06,A: ,A,All
+131,0 days 00:03:15,B: ,B,All
+133,0 days 03:29:00,GM: ,GM,All

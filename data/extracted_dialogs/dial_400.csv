@@ -1,0 +1,17 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+30,0 days 00:00:28,B: I'm in the nursery,B,All
+31,0 days 00:00:29,A: Okay I'm in a nursery,A,All
+32,0 days 00:00:34,B: all white with a crib on the right,B,All
+33,0 days 00:00:35,A: all white furniture?,A,All
+34,0 days 00:00:42,B: sounds like the same one,B,All
+36,0 days 00:00:44,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+38,0 days 00:00:50,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM,All
+39,0 days 00:00:50,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+40,0 days 00:00:50,GM: ,GM,All
+41,0 days 00:00:50,GM: Here's your token: 976JC13GT,GM,All
+42,0 days 00:01:14,A: ,A,All
+44,0 days 00:01:15,B: ,B,All
+46,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All

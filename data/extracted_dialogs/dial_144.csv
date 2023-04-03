@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+42,0 days 00:00:49,"A: A jacuzzi is different to a bathtub, right?",A,All
+47,0 days 00:01:07,B: hmm,B,All
+48,0 days 00:01:14,B: maybe?,B,All
+49,0 days 00:01:18,A: A regular tub doesn't count? I'm not sure. I have a feeling they're more like a spa?,A,All
+50,0 days 00:01:30,B: i am in indoor pool room,B,All
+51,0 days 00:01:49,A: I found a tub but will keep looking... let me know if you find somethign that fits better,A,All
+52,0 days 00:01:53,B: pool in back and hot tub/jacuzzi in front,B,All
+53,0 days 00:01:59,A: Ah okay,A,All
+58,0 days 00:02:23,"A: Okay, found one but no pool...",A,All
+63,0 days 00:02:29,B: looks like an inside hotel pool ,B,All
+68,0 days 00:02:36,A: okay,A,All
+79,0 days 00:02:55,"A: Okay, think I got it. Is there a plant in the far corner?",A,All
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 00:03:12,B: it is north of a dining room with red rug under table,B,All
+90,0 days 00:03:23,B: yes,B,All
+91,0 days 00:03:27,"A: yep, that's the one!",A,All
+97,0 days 00:03:33,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+98,0 days 00:03:37,A: Yay,A,All
+100,0 days 00:03:39,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM,All
+101,0 days 00:03:39,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+102,0 days 00:03:40,GM: ,GM,All
+103,0 days 00:03:40,GM: Here's your token: 572XGWN1J,GM,All
+104,0 days 00:03:58,B: ,B,All
+106,0 days 00:04:01,A: ,A,All
+108,0 days 01:24:32,GM: ,GM,All

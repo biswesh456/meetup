@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+26,0 days 00:00:19,A: Hello,A,All
+27,0 days 00:00:24,B: i went south once,B,All
+28,0 days 00:00:24,B: hi,B,All
+29,0 days 00:00:34,"B: im in an office, two blue chairs",B,All
+40,0 days 00:00:54,B: a blue statue of a horse head on the table,B,All
+41,0 days 00:01:01,A: found an office,A,All
+42,0 days 00:01:22,B: does it have two blue chairs in it?,B,All
+43,0 days 00:01:29,A: not seeing the horse head,A,All
+44,0 days 00:01:40,A: one black chair,A,All
+49,0 days 00:01:48,B: wait and ill find you,B,All
+62,0 days 00:02:19,B: white file cabinets?,B,All
+63,0 days 00:02:23,B: kinda messy?,B,All
+64,0 days 00:02:33,B: blue bin under the desk?,B,All
+65,0 days 00:02:37,A: yes and window on right,A,All
+66,0 days 00:02:39,A: yes,A,All
+68,0 days 00:02:42,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+69,0 days 00:02:44,"B: yes, thats the one",B,All
+71,0 days 00:02:46,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM,All
+72,0 days 00:02:46,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+73,0 days 00:02:46,GM: ,GM,All
+74,0 days 00:02:46,GM: Here's your token: 6872Q13TF,GM,All
+75,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+76,0 days 00:03:05,A: ,A,All
+78,0 days 00:03:07,B: ,B,All
+80,0 days 03:15:22,GM: ,GM,All

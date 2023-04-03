@@ -1,0 +1,23 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+40,0 days 00:00:52,A: I'm in a room with a childs table and a blue rug and a tv set,A,All
+41,0 days 00:00:58,B: found play room with yellow white walls,B,All
+46,0 days 00:01:11,B: is it blue table top?,B,All
+59,0 days 00:01:30,"B: 4 chairs, 2 green, one red and one blue?",B,All
+97,0 days 00:02:29,B: not sure if we are in same room. So you want me to search for where u r? I am certain where i am is a play room,B,All
+100,0 days 00:02:50,B: ?,B,All
+101,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+102,0 days 00:03:03,"A: I have been to two bedrooms and outdoors, I'm still searching for the playroom",A,All
+103,0 days 00:03:11,B: ok,B,All
+112,0 days 00:03:45,A: I'm in the playroom finally,A,All
+113,0 days 00:03:51,B: ok,B,All
+115,0 days 00:03:57,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+117,0 days 00:03:59,"GM: You have managed to meet in a room of type:                                                        p/playroom, but unfortunately                                                        not in the same one.",GM,All
+118,0 days 00:04:00,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+119,0 days 00:04:00,GM: ,GM,All
+120,0 days 00:04:00,GM: Here's your token: 1146KCY0H9,GM,All
+121,0 days 00:07:25,B: ,B,All
+123,0 days 00:10:27,A: ,A,All
+125,0 days 00:14:48,GM: ,GM,All

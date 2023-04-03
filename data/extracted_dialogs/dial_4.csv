@@ -1,0 +1,35 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:22,A: I'm in the kitchen. ,A,All
+21,0 days 00:00:29,A: Where are you?,A,All
+22,0 days 00:00:31,B: I;m outside,B,All
+61,0 days 00:02:06,B: move north,B,All
+62,0 days 00:02:12,A: I'm in the basement,A,All
+63,0 days 00:02:27,A: I can see a big green and white box,A,All
+64,0 days 00:02:42,A: There are stairs and a cement floor.,A,All
+69,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+74,0 days 00:03:29,B: i/m in the basement,B,All
+75,0 days 00:03:30,"A: There is a water heater and a cement support beam to the ceiling, and ductwork for the heater.",A,All
+77,0 days 00:03:41,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+78,0 days 00:03:43,B: there is a tv,B,All
+79,0 days 00:03:52,A: I don't see a tv,A,All
+80,0 days 00:03:56,B: and bar,B,All
+81,0 days 00:04:04,B: and couch,B,All
+87,0 days 00:04:31,"A: I see the furnace and a water heater, wooden stairs leading up, a cement floor",A,All
+88,0 days 00:04:34,B: washer dryer,B,All
+93,0 days 00:04:49,A: I was in that rooom. It isn't the basement.,A,All
+98,0 days 00:05:07,"A: It has a brown carpet floor and a sink, right?",A,All
+99,0 days 00:05:14,B: yes,B,All
+104,0 days 00:05:28,A: keep going,A,All
+109,0 days 00:05:39,B: got it furnace,B,All
+110,0 days 00:05:46,A: great!,A,All
+112,0 days 00:05:49,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+114,0 days 00:05:51,GM: Well done! Both of you are                            indeed in the same room of type: b/basement!,GM,All
+115,0 days 00:05:51,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+116,0 days 00:05:52,GM: ,GM,All
+117,0 days 00:05:52,GM: Here's your token: 150IQOE0O,GM,All
+118,0 days 00:07:15,A: ,A,All
+120,0 days 00:10:35,B: ,B,All
+122,0 days 02:18:14,GM: ,GM,All

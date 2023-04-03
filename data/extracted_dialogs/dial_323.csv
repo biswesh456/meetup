@@ -1,0 +1,46 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+24,0 days 00:00:30,B: in a laundry room/utility room,B,All
+29,0 days 00:00:39,B: side by side washer dry,B,All
+30,0 days 00:00:45,B: counter over top,B,All
+39,0 days 00:00:58,B: window above only partial shown,B,All
+40,0 days 00:01:06,B: grey tiles on the wall,B,All
+45,0 days 00:01:15,A: I'm in a kid's room,A,All
+46,0 days 00:01:15,B: white floor,B,All
+55,0 days 00:01:36,B: green white and red sticker on appliances,B,All
+56,0 days 00:01:39,A: now I'm in a laundry room,A,All
+57,0 days 00:01:48,B: its it the one i described,B,All
+58,0 days 00:01:57,A: it has a shelf and a washer and dryer,A,All
+59,0 days 00:02:06,B: nothing on shelf,B,All
+60,0 days 00:02:25,"A: ah, there's books on this one.  i guess this isn't it",A,All
+69,0 days 00:02:45,B: do you want me to find yours or you find mine,B,All
+78,0 days 00:03:00,A: I'll find yours,A,All
+79,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+92,0 days 00:03:21,A: found it,A,All
+93,0 days 00:03:26,A: does it have a window?,A,All
+94,0 days 00:03:33,A: a sink,A,All
+95,0 days 00:03:36,B: yes partial shown,B,All
+96,0 days 00:03:37,B: no sink,B,All
+97,0 days 00:03:43,A: dammit,A,All
+102,0 days 00:04:06,"A: ok, does it have a brown shelf?",A,All
+103,0 days 00:04:12,"B: very plain grey tiles on wall, counter over the side by side appliances",B,All
+104,0 days 00:04:13,A: washer and dryer,A,All
+105,0 days 00:04:16,B: no shelf,B,All
+106,0 days 00:04:18,A: a plainting on the wall?,A,All
+107,0 days 00:04:25,B: nope,B,All
+112,0 days 00:04:41,A: grey tiles?,A,All
+113,0 days 00:04:46,B: yes,B,All
+114,0 days 00:04:50,A: u barely see a window above?,A,All
+115,0 days 00:04:54,B: yes,B,All
+116,0 days 00:04:57,A: that's it,A,All
+118,0 days 00:05:00,B: k,B,All
+119,0 days 00:05:01,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+121,0 days 00:05:03,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM,All
+122,0 days 00:05:03,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+123,0 days 00:05:03,GM: ,GM,All
+124,0 days 00:05:04,GM: Here's your token: 601SK1T2X,GM,All
+125,0 days 00:05:23,B: ,B,All
+127,0 days 00:05:37,A: ,A,All
+129,0 days 01:02:32,GM: ,GM,All

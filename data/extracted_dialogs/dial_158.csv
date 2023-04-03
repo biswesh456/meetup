@@ -1,0 +1,28 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+28,0 days 00:00:23,B: OKay I'm in a home office,B,All
+29,0 days 00:00:33,B: wall in the back is dark maroon,B,All
+30,0 days 00:00:55,B: light fixture is a big white globe type thing,B,All
+31,0 days 00:00:55,A: why my picture is showing outside the building?,A,All
+32,0 days 00:01:14,"B: just move, yuo'll get back inside",B,All
+35,0 days 00:02:03,"B: desk on the right, shelves on the left",B,All
+36,0 days 00:02:16,B: plant on top shelf,B,All
+40,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+45,0 days 00:03:09,B: chrome and black desk chair on right.,B,All
+46,0 days 00:03:46,B: are you still here?,B,All
+47,0 days 00:03:57,A: finally. i am in an office with a monitor and a guitar at the corner,A,All
+48,0 days 00:04:08,"B: okay stay there, I'll try to find you",B,All
+87,0 days 00:05:01,A: cool. There is a big window with beige curtains at the back of the table,A,All
+92,0 days 00:05:08,B: got it,B,All
+93,0 days 00:05:21,B: coat hanging on the chair,B,All
+94,0 days 00:05:30,A: that's right\,A,All
+96,0 days 00:05:34,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+98,0 days 00:05:42,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM,All
+99,0 days 00:05:42,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+100,0 days 00:05:43,GM: ,GM,All
+101,0 days 00:05:43,GM: Here's your token: 704B412FS,GM,All
+102,0 days 00:06:04,B: ,B,All
+104,0 days 00:06:24,A: ,A,All
+106,0 days 03:04:48,GM: ,GM,All

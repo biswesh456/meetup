@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:15,A: hello,A,All
+29,0 days 00:00:23,B: hello,B,All
+40,0 days 00:00:44,A: I found a wine area,A,All
+53,0 days 00:01:18,B: looks like I am on a street,B,All
+60,0 days 00:01:36,A: head north maybe,A,All
+65,0 days 00:01:47,B: I am in the living room,B,All
+98,0 days 00:02:39,A: west I think,A,All
+111,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+120,0 days 00:03:17,"A: alright, let's call it quits",A,All
+122,0 days 00:03:30,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+123,0 days 00:03:32,B: yeah.. I guess :(,B,All
+125,0 days 00:03:38,"GM: You have managed to meet in a room of type:                                                        w/wine_cellar/bottle_storage, but unfortunately                                                        not in the same one.",GM,All
+126,0 days 00:03:38,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+127,0 days 00:03:39,GM: ,GM,All
+128,0 days 00:03:39,GM: Here's your token: 577942KH4,GM,All
+129,0 days 00:04:05,A: ,A,All
+131,0 days 00:08:44,B: ,B,All
+133,0 days 01:21:33,GM: ,GM,All

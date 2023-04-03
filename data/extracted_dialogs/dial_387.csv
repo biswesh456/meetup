@@ -1,0 +1,27 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:10,A: hello. I am outside,A,All
+27,0 days 00:00:15,B: ok,B,All
+34,0 days 00:00:28,A: I think I made it to the waiting room. There is a red couch,A,All
+35,0 days 00:00:33,B: ok,B,All
+40,0 days 00:00:39,A: let me know when you make it here,A,All
+45,0 days 00:00:49,B: just one red couch?,B,All
+46,0 days 00:01:00,B: is there chairs?,B,All
+47,0 days 00:01:01,A: no there are some chairs in there too,A,All
+48,0 days 00:01:04,A: yeah,A,All
+49,0 days 00:01:09,A: painting on the wall?,A,All
+50,0 days 00:01:11,B: a long picture above the couch,B,All
+51,0 days 00:01:13,A: yep,A,All
+53,0 days 00:01:15,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+54,0 days 00:01:15,B: plant on a table,B,All
+56,0 days 00:01:21,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM,All
+57,0 days 00:01:21,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+58,0 days 00:01:21,GM: ,GM,All
+59,0 days 00:01:21,GM: Here's your token: 1036EZ13PC,GM,All
+60,0 days 00:01:27,B: awesome job,B,All
+61,0 days 00:01:29,A: ,A,All
+63,0 days 00:01:34,B: ,B,All
+65,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+66,0 days 00:10:56,GM: ,GM,All

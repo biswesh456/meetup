@@ -1,0 +1,20 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+64,0 days 00:00:53,A: ok I'm in an attic,A,All
+65,0 days 00:00:58,A: it's not finished,A,All
+78,0 days 00:01:14,A: Has exposed studs and visible insulation,A,All
+83,0 days 00:01:22,B: im looking,B,All
+92,0 days 00:01:31,A: plywood floor and a window partially visible on the left,A,All
+115,0 days 00:02:24,B: i think i found it,B,All
+117,0 days 00:02:30,B: unfinished,B,All
+118,0 days 00:02:31,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+119,0 days 00:02:34,B: and a partial window on the left,B,All
+121,0 days 00:02:48,GM: Well done! Both of you are                            indeed in the same room of type: a/attic!,GM,All
+122,0 days 00:02:48,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+123,0 days 00:02:48,GM: ,GM,All
+124,0 days 00:02:49,GM: Here's your token: 9491FTV6H,GM,All
+125,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+126,0 days 00:03:02,B: ,B,All
+128,0 days 00:03:14,A: ,A,All

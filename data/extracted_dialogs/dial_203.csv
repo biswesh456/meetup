@@ -1,0 +1,20 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+36,0 days 00:00:20,B: Okay I'm in a waiting room,B,All
+37,0 days 00:00:28,A: green bench?,A,All
+38,0 days 00:00:35,B: yes,B,All
+39,0 days 00:00:40,B: two signs on the walls,B,All
+40,0 days 00:00:43,A: yes,A,All
+41,0 days 00:00:48,B: window over the bench,B,All
+42,0 days 00:00:54,"A: yes, i think its the same",A,All
+44,0 days 00:00:58,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+46,0 days 00:01:17,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM,All
+47,0 days 00:01:17,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+48,0 days 00:01:18,GM: ,GM,All
+49,0 days 00:01:18,GM: Here's your token: 685HEYDQM,GM,All
+50,0 days 00:01:34,B: ,B,All
+52,0 days 00:01:39,A: ,A,All
+54,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+55,0 days 03:17:11,GM: ,GM,All

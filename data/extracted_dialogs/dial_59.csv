@@ -1,0 +1,27 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:15,A: Hi,A,All
+21,0 days 00:00:21,B: im in bedroom going east,B,All
+22,0 days 00:00:23,A: jacuzzi indoors it says,A,All
+50,0 days 00:00:38,B: im at a jacuzzi now,B,All
+80,0 days 00:00:52,B: there is a wall so i assume it is indoors,B,All
+90,0 days 00:01:02,A: I see a jacuzzi with chairs around it,A,All
+91,0 days 00:01:20,B: no mine has plants on it an a bottle of liqour,B,All
+92,0 days 00:01:31,A: ah,A,All
+114,0 days 00:01:49,B: ok im a jacuzzi with chairs,B,All
+126,0 days 00:02:00,B: i think were there,B,All
+127,0 days 00:02:06,A: are the chairs lined up?,A,All
+128,0 days 00:02:06,B: we're,B,All
+129,0 days 00:02:18,B: yes against a wall,B,All
+130,0 days 00:02:25,A: yeah same one,A,All
+132,0 days 00:02:28,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+134,0 days 00:02:35,"GM: You have managed to meet in a room of type:                                                        j/jacuzzi/indoor, but unfortunately                                                        not in the same one.",GM,All
+135,0 days 00:02:35,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+136,0 days 00:02:35,GM: ,GM,All
+137,0 days 00:02:36,GM: Here's your token: 326RV6YAP,GM,All
+138,0 days 00:02:54,A: ,A,All
+140,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+141,0 days 00:03:02,B: ,B,All
+143,0 days 04:10:56,GM: ,GM,All

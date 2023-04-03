@@ -1,0 +1,19 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:15,A: hello,A,All
+21,0 days 00:00:21,B: hi,B,All
+32,0 days 00:00:49,B: i am in a wine cellar,B,All
+45,0 days 00:01:07,A: yes i am there,A,All
+46,0 days 00:01:07,B: i went north from the bedroom to get there,B,All
+52,0 days 00:01:22,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+53,0 days 00:01:24,A: i too went north,A,All
+55,0 days 00:01:34,"GM: You have managed to meet in a room of type:                                                        w/wine_cellar/bottle_storage, but unfortunately                                                        not in the same one.",GM,All
+56,0 days 00:01:34,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+57,0 days 00:01:34,GM: ,GM,All
+58,0 days 00:01:34,GM: Here's your token: 6660K9L21,GM,All
+59,0 days 00:01:55,B: ,B,All
+61,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+62,0 days 00:07:35,A: ,A,All
+64,0 days 03:29:10,GM: ,GM,All

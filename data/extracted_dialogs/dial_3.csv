@@ -1,0 +1,33 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+24,0 days 00:00:15,B: I am in a bedroom ,B,All
+25,0 days 00:00:22,"A: Okay, we have to meet in a locker room.",A,All
+34,0 days 00:00:35,B: okay,B,All
+43,0 days 00:00:50,B: living room now,B,All
+45,0 days 00:00:55,A: I see a locker room with yellow and green paint on the walls.,A,All
+49,0 days 00:01:00,A: I will look for other ones though.,A,All
+58,0 days 00:01:11,B: bedroom again? Or is it a locker room?,B,All
+59,0 days 00:01:20,"A: It's a locker room, look for those",A,All
+60,0 days 00:01:21,B: I am in a very small bedroom,B,All
+65,0 days 00:01:25,B: lockers,B,All
+74,0 days 00:01:40,B: West got me to an office,B,All
+75,0 days 00:01:42,"A: I see another locker room, this time with a lot of jerseys on the wall",A,All
+76,0 days 00:01:46,B: ok,B,All
+77,0 days 00:01:48,B: trying,B,All
+86,0 days 00:01:57,B: bedroom again!,B,All
+88,0 days 00:02:03,"A: Another locker room, this one has a brazilian flag in the center",A,All
+113,0 days 00:02:23,B: Locker room! Lots of yellow and green lockers!!!,B,All
+115,0 days 00:02:29,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+116,0 days 00:02:30,A: okay I will go back to that,A,All
+130,0 days 00:02:39,GM: Well done! Both of you are                            indeed in the same room of type: l/locker_room!,GM,All
+131,0 days 00:02:39,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+132,0 days 00:02:39,GM: ,GM,All
+133,0 days 00:02:39,GM: Here's your token: 130N3EIN3,GM,All
+134,0 days 00:02:40,B: sorry about done,B,All
+135,0 days 00:02:47,"A: we did it, good job",A,All
+136,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+137,0 days 00:03:19,A: ,A,All
+139,0 days 00:06:48,B: ,B,All
+141,0 days 02:41:45,GM: ,GM,All

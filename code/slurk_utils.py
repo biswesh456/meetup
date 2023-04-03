@@ -196,6 +196,9 @@ def reformat_dial_pp(in_dial, show=True):
                               'public', 'B-private',
                               'user', 'receiver']][10:],
                    textcol=['A-private', 'public', 'B-private'], width=100))
+        return this_dial[['time',
+                              'public',
+                              'user', 'receiver']]
     else:
         return this_dial[['time', 'A-private',
                           'public', 'B-private']]

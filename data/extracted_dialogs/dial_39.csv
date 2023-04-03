@@ -1,0 +1,36 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:12,B: hi,B,All
+31,0 days 00:00:29,A: howdy,A,All
+32,0 days 00:00:36,B: i found an indoor jacuzzi,B,All
+39,0 days 00:00:48,B: there is a man in the jacuzzi with a woman in a robe handing something to him,B,All
+40,0 days 00:00:58,B: they have a view of a rooftop,B,All
+41,0 days 00:01:02,A: i'm outdoor jacuzzi,A,All
+62,0 days 00:01:30,B: just to confirm we need to meet at an indoor jacuzzi,B,All
+67,0 days 00:01:31,B: ?,B,All
+68,0 days 00:01:36,A: yep still looking,A,All
+73,0 days 00:01:42,B: roger.,B,All
+80,0 days 00:01:51,A: i am at an indoor jacuzzi but no one is in the pic,A,All
+81,0 days 00:02:01,B: i will look for that one,B,All
+82,0 days 00:02:02,B: please describe,B,All
+83,0 days 00:02:03,A: stones set in concrete around it,A,All
+92,0 days 00:02:17,B: is there a window,B,All
+93,0 days 00:02:18,A: looks like a lap pool in the background maybe,A,All
+94,0 days 00:02:27,A: yes windows on the right side of the pic,A,All
+95,0 days 00:02:37,B: ok im at the wrong jacuzzi i will keep searching,B,All
+106,0 days 00:03:00,B: i think i found it,B,All
+107,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+108,0 days 00:03:12,B: is there a large wooden circular building on the roof,B,All
+109,0 days 00:03:21,B: circular structure,B,All
+110,0 days 00:03:26,A: yes that is it,A,All
+112,0 days 00:03:28,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+114,0 days 00:03:31,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM,All
+115,0 days 00:03:31,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+116,0 days 00:03:31,GM: ,GM,All
+117,0 days 00:03:32,GM: Here's your token: 191XAZ8G4,GM,All
+118,0 days 00:03:41,A: ty,A,All
+119,0 days 00:03:58,A: ,A,All
+121,0 days 00:04:05,B: ,B,All
+123,0 days 01:53:20,GM: ,GM,All

@@ -1,0 +1,26 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:00,GM: ,GM,All
+38,0 days 00:00:32,B: Hi,B,All
+39,0 days 00:00:37,A: hi,A,All
+40,0 days 00:00:45,B: ?N,B,All
+41,0 days 00:00:47,A: i am already here lol this is a simple one,A,All
+43,0 days 00:00:51,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+44,0 days 00:00:57,B: I need to figure out how to move,B,All
+47,0 days 00:01:07,A: slash and then one letter for direction,A,All
+52,0 days 00:01:17,A: i think you can only go east and west,A,All
+55,0 days 00:01:25,"A: so ""/e"" and ""/w""",A,All
+56,0 days 00:01:41,"B: I am now in a playroom too, with a plastic slide with a yellow top and blue roof",B,All
+57,0 days 00:01:49,A: then type slash done,A,All
+58,0 days 00:01:51,A: yay!,A,All
+59,0 days 00:01:54,B: is that the one you are in?,B,All
+60,0 days 00:01:57,A: yes,A,All
+62,0 days 00:01:59,"GM: You have managed to meet in a room of type:                                                        p/playroom, but unfortunately                                                        not in the same one.",GM,All
+63,0 days 00:02:00,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+64,0 days 00:02:00,GM: ,GM,All
+65,0 days 00:02:00,GM: Here's your token: 162J6MZRN,GM,All
+66,0 days 00:02:24,A: ,A,All
+68,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+69,0 days 00:23:35,B: ,B,All
+71,0 days 02:06:23,GM: ,GM,All

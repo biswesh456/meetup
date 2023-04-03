@@ -1,0 +1,31 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+22,0 days 00:00:34,B: Hello I have played before so lets communicate and get this done,B,All
+27,0 days 00:00:43,A: I am in the kitchen,A,All
+34,0 days 00:01:03,"B: Me too, we are supposed to get to a staircase",B,All
+35,0 days 00:01:05,"A: I found the staircase, it curves upwards",A,All
+36,0 days 00:01:13,A: there's a dark door and a painting on the wall,A,All
+45,0 days 00:01:41,A: i went west from the kitchen to get here,A,All
+50,0 days 00:02:06,B: Trying different moves now,B,All
+57,0 days 00:02:44,"B: S : move south,",B,All
+64,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+65,0 days 00:03:02,A: is yours a dark staircase with flowers?,A,All
+66,0 days 00:03:09,B: Not there yet,B,All
+69,0 days 00:03:22,"A: i found two, so let me know which one you get to",A,All
+100,0 days 00:05:28,A: are you still there?,A,All
+101,0 days 00:05:38,B: Yes - just not entering it right ,B,All
+102,0 days 00:05:42,B: Sorry for the delay,B,All
+129,0 days 00:07:26,B: FOund a staircase with a bike under it,B,All
+130,0 days 00:07:37,B: Is that where you are,B,All
+131,0 days 00:07:37,"A: okay thats not one i found, let me look for that one",A,All
+138,0 days 00:07:52,A: yes got it!,A,All
+140,0 days 00:07:55,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+142,0 days 00:08:09,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM,All
+143,0 days 00:08:09,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+144,0 days 00:08:10,GM: ,GM,All
+145,0 days 00:08:10,GM: Here's your token: 1034VP9RXP,GM,All
+146,0 days 00:08:36,A: ,A,All
+148,0 days 00:09:35,B: ,B,All
+150,0 days 00:13:07,GM: ,GM,All

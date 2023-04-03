@@ -1,0 +1,25 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:00,GM: ,GM,All
+32,0 days 00:00:43,B: I'm in the home office,B,All
+33,0 days 00:00:47,A: a chair with a screen on a white table,A,All
+34,0 days 00:00:51,A: window to the right,A,All
+35,0 days 00:00:59,B: 2 monitors on a corner desk,B,All
+36,0 days 00:01:03,A: bed on the right,A,All
+37,0 days 00:01:03,B: black leather chair,B,All
+38,0 days 00:01:09,B: no bed in mine.,B,All
+39,0 days 00:01:13,"A: ah, I'll find you",A,All
+48,0 days 00:01:26,B: window blind slightly open on the left,B,All
+73,0 days 00:02:23,A: 2 screens,A,All
+74,0 days 00:02:25,A: black chair,A,All
+75,0 days 00:02:33,B: thats the one,B,All
+76,0 days 00:02:34,A: window with blinds on the left?,A,All
+78,0 days 00:02:35,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+80,0 days 00:02:38,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM,All
+81,0 days 00:02:39,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+82,0 days 00:02:39,GM: ,GM,All
+83,0 days 00:02:39,GM: Here's your token: 9847ARRAT,GM,All
+84,0 days 00:02:50,A: ,A,All
+86,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM,All
+87,0 days 00:03:07,B: ,B,All

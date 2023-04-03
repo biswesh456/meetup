@@ -1,0 +1,40 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:14,A: Hi,A,All
+25,0 days 00:00:24,B: hi,B,All
+42,0 days 00:01:03,A: I've found a kitchen. ,A,All
+43,0 days 00:01:07,A: Have you yet?,A,All
+44,0 days 00:01:14,B: I have not ,B,All
+45,0 days 00:01:48,B: [/n]orth,B,All
+46,0 days 00:01:58,A: Let me know when you find one. ,A,All
+72,0 days 00:02:47,B: I found kitchen,B,All
+73,0 days 00:02:56,A: What's it look like?,A,All
+74,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM,All
+75,0 days 00:03:04,B: cluttered counter top ,B,All
+76,0 days 00:03:09,B: hanging lights,B,All
+77,0 days 00:03:13,B: brown cabinets,B,All
+78,0 days 00:03:25,A: Mine has fridge covered with pictures. Wine rack on the left. Two chairs in front of a bar. ,A,All
+79,0 days 00:03:34,A: Do you want to stay there and I'll find you?,A,All
+80,0 days 00:03:34,B: not the same kitchen ,B,All
+85,0 days 00:03:44,"B: yes, that would be gret",B,All
+86,0 days 00:04:01,A: Is it lots of stainless steel and plants on the counter?,A,All
+87,0 days 00:04:08,B: no ,B,All
+88,0 days 00:04:11,A: Okay,A,All
+97,0 days 00:04:25,"B: there is something green in a sink, very standard kitchen no appliances ",B,All
+98,0 days 00:04:32,B: radio on counter with clutter food and stuff,B,All
+99,0 days 00:05:04,A: Towel hanging off the edge of the counter?,A,All
+100,0 days 00:05:19,B: no ,B,All
+105,0 days 00:05:45,A: Yellow helmet? Two windows? ,A,All
+106,0 days 00:05:47,B: there is a yellow hard hat in the middle of counter top by the radio ,B,All
+107,0 days 00:05:50,B: yes thats it ,B,All
+108,0 days 00:05:52,A: Found it!,A,All
+110,0 days 00:05:55,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+112,0 days 00:06:03,GM: Well done! Both of you are                            indeed in the same room of type: k/kitchen!,GM,All
+113,0 days 00:06:03,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+114,0 days 00:06:03,GM: ,GM,All
+115,0 days 00:06:04,GM: Here's your token: 478IKJX9L,GM,All
+116,0 days 00:06:22,B: ,B,All
+118,0 days 00:06:33,A: ,A,All
+120,0 days 02:25:20,GM: ,GM,All

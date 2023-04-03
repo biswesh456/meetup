@@ -1,0 +1,40 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:12,B: hello,B,All
+25,0 days 00:00:17,"A: Hello, where are yiu",A,All
+40,0 days 00:00:33,B: .w,B,All
+41,0 days 00:00:35,A: I found the indoor jacuzzi,A,All
+46,0 days 00:00:50,B: what does it look like,B,All
+47,0 days 00:00:52,"A: Blue wall, blue tub, 3 blue chairs off to the side",A,All
+49,0 days 00:01:06,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+50,0 days 00:01:12,B: I found a jacuzzi we are in different rooms,B,All
+51,0 days 00:01:21,A: what does it look like,A,All
+52,0 days 00:01:41,"B: it has stone base, no chairs",B,All
+53,0 days 00:02:02,B: do you want to find me or me you,B,All
+54,0 days 00:02:04,A: no 3 blue chairs on the side of the right side photo ?,A,All
+55,0 days 00:02:09,B: no,B,All
+56,0 days 00:02:22,A: ok. i think i am at the right jacuzzi,A,All
+57,0 days 00:02:45,B: there can be more than one we have to just be in the same one,B,All
+58,0 days 00:02:50,B: ill find you,B,All
+59,0 days 00:02:54,A: ok,A,All
+64,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+69,0 days 00:03:07,B: .e,B,All
+98,0 days 00:04:12,B: jacuzzi with 5 chairs,B,All
+99,0 days 00:04:33,"A: Blue wall, stairs on left side?",A,All
+100,0 days 00:04:40,A: Plant ,A,All
+101,0 days 00:04:41,B: no ,B,All
+102,0 days 00:04:46,B: ill keep looking,B,All
+103,0 days 00:04:50,A: ok,A,All
+110,0 days 00:05:11,B: found another not what you described,B,All
+123,0 days 00:05:31,A: Oh ,A,All
+124,0 days 00:05:46,B: blue with 3 chairs and a plant,B,All
+125,0 days 00:05:54,A: yes,A,All
+127,0 days 00:06:10,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM,All
+128,0 days 00:06:10,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+129,0 days 00:06:10,GM: ,GM,All
+130,0 days 00:06:11,GM: Here's your token: 390CSUSFD,GM,All
+131,0 days 00:06:42,A: ,A,All
+133,0 days 00:07:16,B: ,B,All
+135,0 days 03:25:05,GM: ,GM,All

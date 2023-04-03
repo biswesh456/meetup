@@ -1,0 +1,29 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+56,0 days 00:00:42,A: i am in a living room,A,All
+57,0 days 00:00:47,B: describe it please,B,All
+58,0 days 00:00:47,A: big stone fireplace,A,All
+63,0 days 00:00:56,A: filled with furniture,A,All
+64,0 days 00:00:59,A: walls are ranish,A,All
+69,0 days 00:01:03,A: tan-ish,A,All
+78,0 days 00:01:18,A: high arched ceiling partially visible,A,All
+88,0 days 00:01:32,"A: foreplace is on the right, very big",A,All
+164,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+169,0 days 00:03:10,B: found other living rooms but cant find yours,B,All
+170,0 days 00:03:16,B: do you want to try?,B,All
+171,0 days 00:03:27,A: describe yours,A,All
+172,0 days 00:03:32,B: hardwood floors,B,All
+173,0 days 00:03:35,B: blue sofa with orange pillows,B,All
+206,0 days 00:04:12,B: attached to dinning room there is a white table there,B,All
+207,0 days 00:04:17,A: okay found it,A,All
+208,0 days 00:04:18,A: done,A,All
+210,0 days 00:04:20,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+212,0 days 00:04:21,GM: Well done! Both of you are                            indeed in the same room of type: l/living_room!,GM,All
+213,0 days 00:04:21,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+214,0 days 00:04:22,GM: ,GM,All
+215,0 days 00:04:22,GM: Here's your token: 8157AL0J1,GM,All
+216,0 days 00:04:38,A: ,A,All
+218,0 days 00:05:17,B: ,B,All
+220,0 days 00:55:34,GM: ,GM,All

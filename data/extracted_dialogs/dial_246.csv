@@ -1,0 +1,26 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+60,0 days 00:01:17,"B: in office, grey chair, white filing cabinets on both sides",B,All
+61,0 days 00:01:17,A: still looking,A,All
+68,0 days 00:01:40,B: row of binders on shelf above brown desk ,B,All
+69,0 days 00:01:46,A: different office will keep looking,A,All
+98,0 days 00:02:41,A: still looking,A,All
+99,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+130,0 days 00:03:59,B: you find it yet?,B,All
+135,0 days 00:04:07,A: no still looking,A,All
+136,0 days 00:04:12,B: k,B,All
+137,0 days 00:04:18,A: keep describing,A,All
+152,0 days 00:04:39,B: blue plastic bin underneath brown desk,B,All
+153,0 days 00:04:52,A: window on left,A,All
+154,0 days 00:05:04,B: window on right,B,All
+155,0 days 00:05:17,A: yes sorry on right we are done,A,All
+157,0 days 00:05:21,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+159,0 days 00:05:27,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM,All
+160,0 days 00:05:27,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+161,0 days 00:05:28,GM: ,GM,All
+162,0 days 00:05:28,GM: Here's your token: 461Z371DC,GM,All
+163,0 days 00:05:54,A: ,A,All
+165,0 days 00:06:07,B: ,B,All
+167,0 days 02:33:58,GM: ,GM,All

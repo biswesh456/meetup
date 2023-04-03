@@ -1,0 +1,31 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+28,0 days 00:00:35,A: What does it look like,A,All
+33,0 days 00:00:42,B: It has blue chairs,B,All
+34,0 days 00:00:46,B: and a guy sitting in it,B,All
+35,0 days 00:00:50,A: Ok,A,All
+40,0 days 00:00:58,B: big table in the middle,B,All
+41,0 days 00:00:59,B: I am there,B,All
+43,0 days 00:01:00,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+44,0 days 00:01:03,A: Ok,A,All
+53,0 days 00:01:23,A: Is there a dog poster,A,All
+58,0 days 00:01:27,B: No,B,All
+59,0 days 00:01:30,A: Ok,A,All
+60,0 days 00:01:33,B: an old guy on the right side,B,All
+65,0 days 00:01:37,B: 6 blue chairs,B,All
+66,0 days 00:01:42,B: table in the middle with a bunch of papers,B,All
+67,0 days 00:01:48,A: gotcha,A,All
+72,0 days 00:01:51,B: open window with a white window frame,B,All
+107,0 days 00:02:53,A: e,A,All
+118,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+135,0 days 00:03:42,A: Here,A,All
+137,0 days 00:03:44,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM,All
+138,0 days 00:03:44,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+139,0 days 00:03:45,GM: ,GM,All
+140,0 days 00:03:45,GM: Here's your token: 357RF2HBT,GM,All
+141,0 days 00:03:45,B: ok,B,All
+142,0 days 00:04:00,B: ,B,All
+144,0 days 00:04:08,A: ,A,All
+146,0 days 03:52:55,GM: ,GM,All

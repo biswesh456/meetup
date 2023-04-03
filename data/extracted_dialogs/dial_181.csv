@@ -1,0 +1,33 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:12,A: Hi,A,All
+23,0 days 00:00:15,B: Hello,B,All
+32,0 days 00:00:22,A: I found a balcony,A,All
+37,0 days 00:00:29,A: It has 2 wood seats,A,All
+38,0 days 00:00:38,B: I found one with 2 plastic seats,B,All
+48,0 days 00:00:44,"A: Overlooking garden or green bush, with yellow seat",A,All
+52,0 days 00:00:49,A: *yellow table,A,All
+65,0 days 00:01:03,A: Do you want me to find you or you to fine m,A,All
+70,0 days 00:01:05,A: *me,A,All
+71,0 days 00:01:10,B: I'll look for you,B,All
+76,0 days 00:01:13,A: Ok,A,All
+93,0 days 00:01:41,B: Tell me what's near it,B,All
+106,0 days 00:02:00,A: South of big pool and house,A,All
+112,0 days 00:02:08,B: e,B,All
+124,0 days 00:02:30,A: I found the other balcony with white table and 2 plastic chairs,A,All
+129,0 days 00:02:33,A: One green one brown,A,All
+130,0 days 00:02:38,B: Found the wood chair balcony,B,All
+131,0 days 00:02:41,B: Go back to it,B,All
+132,0 days 00:02:42,A: ok ill go back,A,All
+138,0 days 00:02:51,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+140,0 days 00:02:55,GM: Well done! Both of you are                            indeed in the same room of type: b/balcony/interior!,GM,All
+141,0 days 00:02:55,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+142,0 days 00:02:56,GM: ,GM,All
+143,0 days 00:02:56,GM: Here's your token: 463UG9B4M,GM,All
+144,0 days 00:02:58,B: gj,B,All
+145,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+146,0 days 00:03:05,A: ,A,All
+148,0 days 00:05:53,B: ,B,All
+150,0 days 02:33:27,GM: ,GM,All

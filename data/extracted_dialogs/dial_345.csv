@@ -1,0 +1,35 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+44,0 days 00:00:20,B: Heading south,B,All
+53,0 days 00:00:27,A: i think i'm here,A,All
+58,0 days 00:00:33,B: Headed east after south,B,All
+59,0 days 00:00:34,A: there's a red play mat in front of a mirror,A,All
+60,0 days 00:00:40,B: k,B,All
+61,0 days 00:00:42,B: I will look for it,B,All
+62,0 days 00:00:49,A: with a green trike on the right,A,All
+63,0 days 00:00:51,B: Which direction did you head?,B,All
+64,0 days 00:00:57,A: i went sough then east,A,All
+65,0 days 00:01:00,A: south*,A,All
+70,0 days 00:01:08,A: assuming we started at the same place,A,All
+79,0 days 00:01:28,B: Are there any kids in your room?,B,All
+80,0 days 00:01:32,B: I found one with kids,B,All
+81,0 days 00:01:33,"A: no, just toys",A,All
+90,0 days 00:01:45,A: i can try to find yours,A,All
+95,0 days 00:01:51,B: Nah stay there,B,All
+108,0 days 00:02:07,A: okay there's another one to the north of me a big white room with toys,A,All
+109,0 days 00:02:10,A: no kids though,A,All
+110,0 days 00:02:13,B: I found your,B,All
+111,0 days 00:02:15,B: s,B,All
+112,0 days 00:02:16,A: so if you can find either of those,A,All
+113,0 days 00:02:17,A: ok,A,All
+115,0 days 00:02:18,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+117,0 days 00:02:22,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM,All
+118,0 days 00:02:23,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+119,0 days 00:02:23,GM: ,GM,All
+120,0 days 00:02:23,GM: Here's your token: 384ZN16E8,GM,All
+121,0 days 00:02:29,A: ,A,All
+123,0 days 00:02:37,B: ,B,All
+125,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+126,0 days 03:30:23,GM: ,GM,All

@@ -1,0 +1,22 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+20,0 days 00:00:14,A: hello there,A,All
+21,0 days 00:00:23,B: hi,B,All
+22,0 days 00:00:34,"A: not exactly sure what a reading room is, so if you've found it please let me know",A,All
+23,0 days 00:00:36,A: .w,A,All
+34,0 days 00:00:48,B: i have no idea,B,All
+46,0 days 00:00:58,A: hoping there are books? lol,A,All
+51,0 days 00:01:11,B: im at a table,B,All
+56,0 days 00:01:17,"A: okay, this might be it. looks like a library. two kids are at a table reading.",A,All
+61,0 days 00:01:31,B: yup,B,All
+63,0 days 00:01:34,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+65,0 days 00:01:39,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM,All
+66,0 days 00:01:40,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+67,0 days 00:01:40,GM: ,GM,All
+68,0 days 00:01:40,GM: Here's your token: 151JKCYHL,GM,All
+69,0 days 00:02:02,A: ,A,All
+71,0 days 00:02:53,B: ,B,All
+73,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+74,0 days 02:13:48,GM: ,GM,All

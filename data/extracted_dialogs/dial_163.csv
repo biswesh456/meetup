@@ -1,0 +1,28 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:00,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+24,0 days 00:00:16,B: .n,B,All
+29,0 days 00:00:30,B: im in a playroom,B,All
+30,0 days 00:00:35,B: it has a slide,B,All
+31,0 days 00:00:43,B: 2 laundry baskets,B,All
+32,0 days 00:00:53,B: brown door on left,B,All
+33,0 days 00:01:06,B: hello?,B,All
+34,0 days 00:01:17,B: no reply,B,All
+35,0 days 00:01:17,A: .n,A,All
+36,0 days 00:01:28,A: looking around,A,All
+43,0 days 00:01:56,B: let me know i also found another... which one you find first,B,All
+52,0 days 00:02:08,A: in playroom,A,All
+53,0 days 00:02:20,B: the one i discribed,B,All
+58,0 days 00:02:26,"A: red slide, door on left, ",A,All
+59,0 days 00:02:31,A: two white baskets,A,All
+61,0 days 00:02:36,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+62,0 days 00:02:47,B: type done,B,All
+64,0 days 00:02:49,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM,All
+65,0 days 00:02:49,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+66,0 days 00:02:49,GM: ,GM,All
+67,0 days 00:02:50,GM: Here's your token: 440HPALNT,GM,All
+68,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM,All
+69,0 days 00:03:17,B: ,B,All
+71,0 days 00:03:50,A: ,A,All
+73,0 days 02:43:46,GM: ,GM,All

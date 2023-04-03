@@ -1,0 +1,27 @@
+,time,public,user,receiver
+0,0 days 00:00:00,A: ,A,All
+1,0 days 00:00:01,B: ,B,All
+2,0 days 00:00:01,GM: ,GM,All
+22,0 days 00:00:14,A: Hello,A,All
+27,0 days 00:00:19,B: Hello,B,All
+40,0 days 00:00:37,B: I'm in the bathroom,B,All
+43,0 days 00:00:50,A: I was on the street,A,All
+48,0 days 00:00:59,B: I never was on the street,B,All
+53,0 days 00:01:05,B: go north from the living room,B,All
+54,0 days 00:01:09,A: also a living room,A,All
+59,0 days 00:01:14,B: go north,B,All
+60,0 days 00:01:19,A: I am in.. Big sink right?,A,All
+61,0 days 00:01:23,B: right,B,All
+62,0 days 00:01:27,B: yay for us,B,All
+64,0 days 00:01:29,A: alright we got it then,A,All
+65,0 days 00:01:29,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All
+66,0 days 00:01:33,A: Good work,A,All
+68,0 days 00:01:34,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM,All
+69,0 days 00:01:35,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+70,0 days 00:01:35,GM: ,GM,All
+71,0 days 00:01:35,GM: Here's your token: 34150S6DH,GM,All
+72,0 days 00:01:37,B: you too,B,All
+73,0 days 00:02:02,B: ,B,All
+75,0 days 00:02:08,A: ,A,All
+77,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All
+78,0 days 04:04:05,GM: ,GM,All
