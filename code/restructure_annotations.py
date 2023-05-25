@@ -73,16 +73,3 @@ if __name__ == "__main__":
         with open("../data/final_annotated_dialogs/dial_corrected_"+str(idx)+".csv", "w") as f:
             writer = csv.writer(f)
             writer.writerows(csv_list)
-        
-
-
-    
-
-
-           
-
-
-
-
-
-                
