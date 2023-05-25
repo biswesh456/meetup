@@ -10,7 +10,7 @@ import openpyxl
 import csv
 
 if __name__ == "__main__":
-
+    # Open the excel sheets containing annotations one by one
     for idx in range(0,1):
         wb = openpyxl.load_workbook("../data/annotated_dialogs/dial_"+str(idx)+".xlsx")
         sheet = wb.active
@@ -57,6 +57,7 @@ if __name__ == "__main__":
                         close_id_list.append(current_ids[i]) 
                         degree_of_grounding.append('medium')
 
+                # Add the restructured annotations to the row
                 row[5] = current_ids
                 row[6] = current_acts
                 row.append(initiate_id_list)
