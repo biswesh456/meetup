@@ -11,7 +11,7 @@ import csv
 
 if __name__ == "__main__":
 
-    for idx in range(65,66):
+    for idx in range(0,1):
         wb = openpyxl.load_workbook("../data/annotated_dialogs/dial_"+str(idx)+".xlsx")
         sheet = wb.active
 
@@ -32,7 +32,7 @@ if __name__ == "__main__":
             print(row)
 
             # If grounding act is not empty then split and process them
-            if grounding_act_column != 'None' and grounding_act_column != 'Grounding Act':
+            if grounding_act_column != 'None' and grounding_act_column != 'Grounding Act' and grounding_act_column is not None:
                 current_ids = [int(float(i.strip())) for i in str(row[5]).split(',')]
                 current_acts = [a.strip() for a in row[6].split(',')]
 
@@ -64,7 +64,10 @@ if __name__ == "__main__":
                 row.append(degree_of_grounding)
 
             print(row)
-            csv_list.append(row)
+
+            # Add row only if time and utterance columns are not empty
+            if row[1] is not None and row[2] is not None:
+                csv_list.append(row)
         
         with open("../data/final_annotated_dialogs/dial_corrected_"+str(idx)+".csv", "w") as f:
             writer = csv.writer(f)
