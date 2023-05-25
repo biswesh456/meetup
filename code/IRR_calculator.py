@@ -4,6 +4,7 @@ if __name__ == "__main__":
     total_correct = 0
     total_length = 0
 
+    # Open the annotation sheets one by one for both the annotators
     for idx in range(4,12):
         wb1 = openpyxl.load_workbook("seemab_dial_"+str(idx)+".xlsx")
         ws1 = wb1.active
@@ -11,7 +12,7 @@ if __name__ == "__main__":
         seemab_annotations = []
 
         for row in ws1.iter_rows(values_only=True):
-            if row[2] != None:
+            if row[2] is not None and row[2] != 'None':
                 if 'A:' in row[2] or 'B:' in row[2]:
                     # print(row[4].lower())
                     seemab_annotations.append(row[4].lower().strip())
@@ -24,7 +25,7 @@ if __name__ == "__main__":
         print("----")
 
         for row in ws2.iter_rows(values_only=True):
-            if row[2] != None:
+            if row[2] is not None and row[2] != 'None':
                 if 'A:' in row[2] or 'B:' in row[2]:
                     # print(row[4].lower()) 
                     biswesh_annotations.append(row[4].lower().strip())
@@ -32,8 +33,6 @@ if __name__ == "__main__":
 
         zipped_annotations = zip(biswesh_annotations, seemab_annotations)
 
-        # print('zipped')
-        
         matching_count = 0
         for i,z in enumerate(zipped_annotations):
             if z[0] == z[1]:
