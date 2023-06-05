@@ -4,6 +4,4 @@
 
 How to load the data is described in [the example Jupyter Notebook](examples.ipynb).
 
-If you find the data useful, please cite
-
 You can find the meetup paper [here](papers/meetup_semdial19.pdf).
